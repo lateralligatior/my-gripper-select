@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Dec  8 16:37:33 2019
+
+@author: Nathan Hilbrands
+"""
+
+*.pyc
+*~
+/.vscode
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
