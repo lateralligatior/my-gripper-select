@@ -1,0 +1,33 @@
+
+Description MPG-plus 12
+
+ID 0340007
+
+Stroke per jaw [mm] 1.2
+
+Closing/opening force [N] 10/8
+
+Weight [kg] 0.01
+
+Recommended workpiece weight [kg] 0.05
+
+Fluid consumption double stroke [cm³] 0.17
+
+Min./nom./max. operating pressure [bar] 3/6/6
+
+Closing/opening time [s] 0.01/0.01
+
+Max. permissible finger length [mm] 12
+
+Max. permissible mass per finger [kg] 0.01
+
+Protection class IP 30
+
+Min./max. ambient temperature [°C] 5/90
+
+Repeat accuracy [mm] 0.02
+
+Dimensions X x Y x Z [mm] 12 x 9.5 x 19
+
+
+

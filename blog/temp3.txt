@@ -1,0 +1,35 @@
+
+Description MPG-plus 20 MPG-plus 20-AS MPG-plus 20-IS MPG-plus 20-FPS
+
+ID 0305491 0305492 0305493 0305494
+
+Stroke per jaw [mm] 2 2 2 2
+
+Closing/opening force [N] 34/30 42/- -/37 34/30
+
+Min. spring force [N] 8 7
+
+Weight [kg] 0.035 0.042 0.042 0.04
+
+Recommended workpiece weight [kg] 0.17 0.17 0.17 0.17
+
+Fluid consumption double stroke [cm³] 0.41 1.38 0.84 0.41
+
+Min./nom./max. operating pressure [bar] 2/6/8 4/6/6.5 4/6/6.5 2/6/8
+
+Closing/opening time [s] 0.012/0.012 0.012/0.018 0.018/0.012 0.012/0.012
+
+Closing/opening time with spring [s] 0.06 0.06
+
+Max. permissible finger length [mm] 25 25 25 25
+
+Max. permissible mass per finger [kg] 0.01 0.01 0.01 0.01
+
+Protection class IP 30 30 30 30
+
+Min./max. ambient temperature [°C] 5/90 5/90 5/90 5/90
+
+Repeat accuracy [mm] 0.02 0.02 0.02 0.02
+
+Dimensions X x Y x Z [mm] 20 x 16 x 24.9 20 x 16 x 33.9 20 x 16 x 33.9 20 x 16 x 34.9
+

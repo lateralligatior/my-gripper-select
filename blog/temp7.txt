@@ -1,0 +1,35 @@
+
+Description MPG-plus 50 MPG-plus 50-AS MPG-plus 50-IS
+
+ID 0305531 0305532 0305533
+
+Stroke per jaw [mm] 8 8 8
+
+Closing/opening force [N] 215/195 265/- -/230
+
+Min. spring force [N] 50 35
+
+Weight [kg] 0.31 0.37 0.38
+
+Recommended workpiece weight [kg] 1.05 1.05 1.05
+
+Fluid consumption double stroke [cm³] 8 17 15
+
+Min./nom./max. operating pressure [bar] 2/6/8 4/6/6.5 4/6/6.5
+
+Closing/opening time [s] 0.04/0.04 0.045/0.075 0.075/0.045
+
+Closing/opening time with spring [s] 0.30 0.30
+
+Max. permissible finger length [mm] 64 64 64
+
+Max. permissible mass per finger [kg] 0.14 0.14 0.14
+
+Protection class IP 30 30 30
+
+Min./max. ambient temperature [°C] 5/90 5/90 5/90
+
+Repeat accuracy [mm] 0.02 0.02 0.02
+
+Dimensions X x Y x Z [mm] 50 x 30 x 46 50 x 30 x 65.3 50 x 30 x 65.3
+

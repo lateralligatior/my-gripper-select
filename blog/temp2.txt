@@ -1,0 +1,35 @@
+
+Description MPG-plus 16 MPG-plus 16-AS MPG-plus 16-IS
+
+ID 0305481 0305482 0305483
+
+Stroke per jaw [mm] 1.5 1.5 1.5
+
+Closing/opening force [N] 29/25 37/- -/32
+
+Min. spring force [N] 8 7
+
+Weight [kg] 0.022 0.025 0.025
+
+Recommended workpiece weight [kg] 0.14 0.14 0.14
+
+Fluid consumption double stroke [cm³] 0.32 0.69 0.53
+
+Min./nom./max. operating pressure [bar] 2/6/8 4/6/6.5 4/6/6.5
+
+Closing/opening time [s] 0.011/0.011 0.011/0.015 0.015/0.011
+
+Closing/opening time with spring [s] 0.03 0.03
+
+Max. permissible finger length [mm] 20 20 20
+
+Max. permissible mass per finger [kg] 0.01 0.01 0.01
+
+Protection class IP 30 30 30
+
+Min./max. ambient temperature [°C] 5/90 5/90 5/90
+
+Repeat accuracy [mm] 0.02 0.02 0.02
+
+Dimensions X x Y x Z [mm] 16 x 13 x 22 16 x 13 x 27 16 x 13 x 27
+

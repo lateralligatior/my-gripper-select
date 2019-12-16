@@ -1,0 +1,5025 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product Information
+Gripper for small components MPG-plus
+
+
+
+2
+
+MPG-plus
+Gripper for small components
+
+Powerful. Fast. Long fingers. 
+
+Gripper for small components MPG-plus
+2-finger parallel gripper with smooth roller guides of the base jaws
+
+Field of application
+Gripping and moving of small to medium-sized workpieces 
+in low contaminated environments, such as assembly, 
+testing, laboratory and pharmaceutical industry
+
+Advantages – Your benefits
+Cross roller guidance for precise gripping through due to a 
+scope-free base jaw guidance
+
+Drive concept oval piston for maximum gripping forces
+
+Base jaws guided on double roller bearings ensuring low 
+friction and smoothly running
+
+Optimized basic load rating suitable for using long gripper 
+fingers
+
+Monitoring with electronic magnetic switches for a 
+maximized process reliability
+
+Mounting from two sides in four screw directions for 
+universal and flexible gripper assembly
+
+Air supply via hose-free direct connection or screw 
+connections for flexible pressure supply in all automated 
+systems
+
+Compact dimensions for minimal interfering contours in 
+handling
+
+Sizes
+Quantity: 9
+
+Weight
+0.01 .. 0.63 kg
+
+Gripping force
+9 .. 370 N
+
+Stroke per jaw
+1 .. 10 mm
+
+Workpiece weight
+0.05 .. 1.25 kg
+
+
+
+3
+
+MPG-plus
+Gripper for small components
+
+MPG-plus
+
+Functional description
+The oval piston is moved up or down by compressed air.
+The angled active surfaces of the wedge-hook produce a 
+synchronized, parallel jaw motion.
+
+ 
+1 Base Jaw
+
+for the connection of workpiece-specific gripper fingers
+
+2 Wedge-hook design
+for high force transmission and centric gripping
+
+3 Cross roller guidance
+precise gripping due to backlash-free base jaw guidance
+
+4 Sensor system
+for monitoring two switching points
+
+5 Oval piston drive
+for power generation
+
+6 Housing
+is weight-optimized due to the use of high-strength 
+aluminum alloy
+
+
+
+4
+
+MPG-plus
+Gripper for small components
+
+General notes about the series
+Operating principle: Wedge-hook kinematics
+
+Housing material: Aluminum alloy, anodized
+
+Cover housing material: Steel
+
+Base jaw material: Steel
+
+Actuation: pneumatic, with filtered compressed air as per 
+ISO 8573-1:2010 [7:4:4].
+
+Warranty: 24 months
+
+Scope of delivery: Centering sleeves, O-rings for direct 
+connection, assembly instructions (operating manual with 
+declaration of incorporation is available online)
+
+Gripping force maintenance: possible by using the version 
+with mechanical gripping force maintenance or pressure 
+maintenance valve SDV-P
+
+Gripping force: is the arithmetic sum of the individual 
+force applied to each jaw at distance P (see illustration).
+
+Finger length: is measured from the reference surface as 
+the distance P in direction to the main axis. 
+The maximum permissible finger length applies until the 
+nominal operating pressure is achieved. With higher 
+pressures, the finger length must be reduced proportio-
+nally to the nominal operating pressure.
+
+Repeat accuracy: is defined as a distribution of the end 
+Position for 100 consecutive strokes.
+
+Workpiece weight: is calculated for force-fit gripping with 
+a coefficient of static friction of 0.1 and a safety factor of 2 
+against workpiece slippage at acceleration due to gravity 
+g. For form-fit or capture gripping, there are significantly 
+higher permissible workpiece weights.
+
+Closing and opening times: are purely the times that the 
+base jaws or fingers are in motion. Valve switching times, 
+hose fill times, or PLC reaction times are not included, and 
+are to be considered when cycle times are calculated.
+
+Application example
+Pneumatic pick & place unit for small 
+components.
+
+1 Pillar assembly system
+2 Linear module CLM
+3 2-finger parallel gripper MPG-plus
+
+
+
+5
+
+MPG-plus
+Gripper for small components
+
+SCHUNK offers more ...
+The following components make the product MPG-plus 
+even more productive – the suitable addition for the 
+highest functionality, flexibility, reliability, and 
+controlled production.
+
+Rotation unit Linear module Pick & Place Unit Manual change system
+
+Finger blankAdapter platePressure maintenance valveAttachment valve
+
+Flexible position sensor Magnetic switches Inductive proximity switches
+
+i For more information on these products can be found on the following product pages or at schunk.com. Please contact us: SCHUNK technical hotline 
++49-7133-103-2696
+
+Options and special information
+Gripping force maintenance version AS/IS: The mechanical gripping force maintenance version ensures minimum gripping 
+force even in the event of a pressure drop. In the AS/S version this acts as a closing force, in the IS version as an opening 
+force.
+Optional adapter plates: allows frontal mounting of the gripper
+Precision version P: for the highest accuracy
+Version FPS for flexible position sensor: This version is prepared for the use with the flexible position sensor FPS, and 
+allows monitoring of several gripping positions.
+
+
+
+6
+
+MPG-plus 10
+Gripper for small components
+
+Gripping force O.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Gripping force I.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Dimensions and maximum loads
+
+Mx max. 0.2 Nm
+
+My max. 0.2 Nm
+
+Mz max. 0.2 Nm
+
+Fz max. 15 N
+
+i The specified torques and forces are static 
+values, apply for each base jaw, and may 
+occur simultaneously. My may arise in 
+addition to the moment generated by the 
+gripping force itself.
+
+Technical data
+
+Description MPG-plus 10
+
+ID 0340006
+
+Stroke per jaw [mm] 1
+
+Closing/opening force [N] 9/7
+
+Weight [kg] 0.01
+
+Recommended workpiece weight [kg] 0.05
+
+Fluid consumption double stroke [cm³] 0.12
+
+Min./nom./max. operating pressure [bar] 3/6/6
+
+Closing/opening time [s] 0.01/0.01
+
+Max. permissible finger length [mm] 10
+
+Max. permissible mass per finger [kg] 0.01
+
+Protection class IP 30
+
+Min./max. ambient temperature [°C] 5/90
+
+Repeat accuracy [mm] 0.02
+
+Dimensions X x Y x Z [mm] 10 x 8 x 18
+
+
+
+7
+
+MPG-plus 10
+Gripper for small components
+
+Main view
+
+The drawing shows the basic version of the gripper with open jaws, 
+without dimensional consideration of the options described below.
+
+i The SDV-P pressure maintenance valve can be used as a gripping force 
+maintenance device (see catalog section on accessories).
+
+A, a Main / direct connection, 
+gripper opening
+
+B, b Main / direct connection, 
+gripper closing
+
+1 Gripper connection
+2 Finger connection
+AS Air connection
+
+GL Fit for centering sleeves
+HT Depth of the centering sleeve 
+
+hole in the counter part
+
+IT Bosch-Rexroth  compressed air 
+hose, TU1-S (Ø 3.0–0.6) series, 
+Order no.: 1820712066 
+(-67/-68/-69)
+
+IK Sensor IN ...
+
+
+
+8
+
+MPG-plus 10
+Gripper for small components
+
+Maximum permitted finger projection
+
+Permitted range Inadmissible range
+
+Lmax is equivalent to the maximum permitted finger length, see the 
+technical data table.
+
+Jaw design
+
+IT Vertically positioned prism IK Horizontally positioned prism
+
+A workpiece, which is gripped using three points of contact, can be 
+reliably gripped with high repeatability. A system with more than three 
+points of contact is overdetermined. The drawing shows two alternative 
+gripper finger designs for coaxial and radial gripping of a cylindrical part.
+
+SDV-P pressure maintenance valve
+
+4 Grippers IT SDV-P pressure maintenance 
+valve
+
+The SDV-P pressure maintenance valve ensures in emergency STOP 
+situations that the pressure in the piston chamber of pneumatic gripper, 
+swivel, linear, and quick-change modules is temporarily maintained.
+
+Description ID Recommended hose diameter
+
+[mm]
+
+Pressure maintenance valve
+
+SDV-P 04 0403130 6
+
+Pressure maintenance valve with air bleed screw
+
+SDV-P 04-E 0300120 6
+
+i In order to achieve the specified closing and opening time for each 
+gripper variant, the recommended hose diameter must be used. The 
+direct allocation of the respective variant of the gripper for the 
+respective SDV-P can be found at schunk.com.
+
+
+
+9
+
+MPG-plus 10
+Gripper for small components
+
+Inductive Proximity Switches
+
+Directly mounted end position monitoring.
+
+Description ID Often combined
+
+Inductive proximity switches
+
+IN 30K-S-M8-PNP 1001272 ●
+
+Cable extension
+
+KV BW08-SG08 3P-0030-PNP 0301495
+
+KV BW08-SG08 3P-0100-PNP 0301496
+
+KV BW08-SG08 3P-0200-PNP 0301497 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG08-L 3P-0300-PNP 0301622 ●
+
+KA BG08-L 3P-0500-PNP 0301623
+
+KA BW08-L 3P-0300-PNP 0301594
+
+KA BW08-L 3P-0500-PNP 0301502
+
+Sensor distributor
+
+V2-M8 0301775 ●
+
+V4-M8 0301746
+
+V8-M8 0301751
+
+i Two sensors are required per unit for monitoring two positions. On 
+option, extension cables and sensor distributors are available. 
+Additional product variants of the sensor, and further information and 
+technical data can be found in the catalog chapter sensor system.
+
+
+
+10
+
+MPG-plus 12
+Gripper for small components
+
+Gripping force O.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Gripping force I.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Dimensions and maximum loads
+
+Mx max. 0.2 Nm
+
+My max. 0.2 Nm
+
+Mz max. 0.2 Nm
+
+Fz max. 25 N
+
+i The specified torques and forces are static 
+values, apply for each base jaw, and may 
+occur simultaneously. My may arise in 
+addition to the moment generated by the 
+gripping force itself.
+
+Technical data
+
+Description MPG-plus 12
+
+ID 0340007
+
+Stroke per jaw [mm] 1.2
+
+Closing/opening force [N] 10/8
+
+Weight [kg] 0.01
+
+Recommended workpiece weight [kg] 0.05
+
+Fluid consumption double stroke [cm³] 0.17
+
+Min./nom./max. operating pressure [bar] 3/6/6
+
+Closing/opening time [s] 0.01/0.01
+
+Max. permissible finger length [mm] 12
+
+Max. permissible mass per finger [kg] 0.01
+
+Protection class IP 30
+
+Min./max. ambient temperature [°C] 5/90
+
+Repeat accuracy [mm] 0.02
+
+Dimensions X x Y x Z [mm] 12 x 9.5 x 19
+
+
+
+11
+
+MPG-plus 12
+Gripper for small components
+
+Main view
+
+The drawing shows the basic version of the gripper with open jaws, 
+without dimensional consideration of the options described below.
+
+i The SDV-P pressure maintenance valve can be used as a gripping force 
+maintenance device (see catalog section on accessories).
+
+A, a Main / direct connection, 
+gripper opening
+
+B, b Main / direct connection, 
+gripper closing
+
+1 Gripper connection
+2 Finger connection
+AS Air connection
+
+GL Fit for centering sleeves
+HT Depth of the centering sleeve 
+
+hole in the counter part
+
+IT Bosch-Rexroth  compressed air 
+hose, TU1-S (Ø 3.0–0.6) series, 
+Order no.: 1820712066 
+(-67/-68/-69)
+
+IK Sensor IN ...
+
+
+
+12
+
+MPG-plus 12
+Gripper for small components
+
+Maximum permitted finger projection
+
+Permitted range Inadmissible range
+
+Lmax is equivalent to the maximum permitted finger length, see the 
+technical data table.
+
+Jaw design
+
+IT Vertically positioned prism IK Horizontally positioned prism
+
+A workpiece, which is gripped using three points of contact, can be 
+reliably gripped with high repeatability. A system with more than three 
+points of contact is overdetermined. The drawing shows two alternative 
+gripper finger designs for coaxial and radial gripping of a cylindrical part.
+
+SDV-P pressure maintenance valve
+
+4 Grippers IT SDV-P pressure maintenance 
+valve
+
+The SDV-P pressure maintenance valve ensures in emergency STOP 
+situations that the pressure in the piston chamber of pneumatic gripper, 
+swivel, linear, and quick-change modules is temporarily maintained.
+
+Description ID Recommended hose diameter
+
+[mm]
+
+Pressure maintenance valve
+
+SDV-P 04 0403130 6
+
+Pressure maintenance valve with air bleed screw
+
+SDV-P 04-E 0300120 6
+
+i In order to achieve the specified closing and opening time for each 
+gripper variant, the recommended hose diameter must be used. The 
+direct allocation of the respective variant of the gripper for the 
+respective SDV-P can be found at schunk.com.
+
+
+
+13
+
+MPG-plus 12
+Gripper for small components
+
+Inductive Proximity Switches
+
+Directly mounted end position monitoring.
+
+Description ID Often combined
+
+Inductive proximity switches
+
+IN 30K-S-M8-PNP 1001272 ●
+
+Cable extension
+
+KV BW08-SG08 3P-0030-PNP 0301495
+
+KV BW08-SG08 3P-0100-PNP 0301496
+
+KV BW08-SG08 3P-0200-PNP 0301497 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG08-L 3P-0300-PNP 0301622 ●
+
+KA BG08-L 3P-0500-PNP 0301623
+
+KA BW08-L 3P-0300-PNP 0301594
+
+KA BW08-L 3P-0500-PNP 0301502
+
+Sensor distributor
+
+V2-M8 0301775 ●
+
+V4-M8 0301746
+
+V8-M8 0301751
+
+i Two sensors are required per unit for monitoring two positions. On 
+option, extension cables and sensor distributors are available. 
+Additional product variants of the sensor, and further information and 
+technical data can be found in the catalog chapter sensor system.
+
+
+
+14
+
+MPG-plus 16
+Gripper for small components
+
+Gripping force O.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Gripping force I.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Dimensions and maximum loads
+
+Mx max. 0.3 Nm
+
+My max. 0.3 Nm
+
+Mz max. 0.3 Nm
+
+Fz max. 40 N
+
+i The specified torques and forces are static 
+values, apply for each base jaw, and may 
+occur simultaneously. My may arise in 
+addition to the moment generated by the 
+gripping force itself.
+
+Technical data
+
+Description MPG-plus 16 MPG-plus 16-AS MPG-plus 16-IS
+
+ID 0305481 0305482 0305483
+
+Stroke per jaw [mm] 1.5 1.5 1.5
+
+Closing/opening force [N] 29/25 37/- -/32
+
+Min. spring force [N] 8 7
+
+Weight [kg] 0.022 0.025 0.025
+
+Recommended workpiece weight [kg] 0.14 0.14 0.14
+
+Fluid consumption double stroke [cm³] 0.32 0.69 0.53
+
+Min./nom./max. operating pressure [bar] 2/6/8 4/6/6.5 4/6/6.5
+
+Closing/opening time [s] 0.011/0.011 0.011/0.015 0.015/0.011
+
+Closing/opening time with spring [s] 0.03 0.03
+
+Max. permissible finger length [mm] 20 20 20
+
+Max. permissible mass per finger [kg] 0.01 0.01 0.01
+
+Protection class IP 30 30 30
+
+Min./max. ambient temperature [°C] 5/90 5/90 5/90
+
+Repeat accuracy [mm] 0.02 0.02 0.02
+
+Dimensions X x Y x Z [mm] 16 x 13 x 22 16 x 13 x 27 16 x 13 x 27
+
+Options and their characteristics
+
+High-temperature version 39305481 39305482 39305483
+
+Min./max. ambient temperature [°C] 5/100 5/100 5/100
+
+
+
+15
+
+MPG-plus 16
+Gripper for small components
+
+Main view
+
+The drawing shows the basic version of the gripper with open jaws, 
+without dimensional consideration of the options described below.
+
+i The SDV-P pressure maintenance valve can also be used for I.D. or O.D. 
+gripping alternatively or in addition to the spring-loaded, mechanical 
+gripping force maintenance device (see catalog section on 
+accessories).
+
+A, a Main / direct connection, 
+gripper opening
+
+B, b Main / direct connection, 
+gripper closing
+
+1 Gripper connection
+2 Finger connection
+AS Air connection
+GL Fit for centering sleeves
+
+GM Fit for centering pins
+HT Depth of the centering sleeve 
+
+hole in the counter part
+
+IT Bosch-Rexroth  compressed air 
+hose, TU1-S (Ø 3.0–0.6) series, 
+Order no.: 1820712066 
+(-67/-68/-69)
+
+IK Sensor IN ...
+
+
+
+16
+
+MPG-plus 16
+Gripper for small components
+
+Maximum permitted finger projection
+
+Permitted range Inadmissible range
+
+Lmax is equivalent to the maximum permitted finger length, see the 
+technical data table.
+
+Hose-free direct connection M2.5
+
+3 Adapter 4 Grippers
+
+The direct connection is used for supplying compressed air without hoses. 
+Instead, the pressure medium is fed through bore-holes in the mounting 
+plate.
+
+Gripping force maintenance device AS / IS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+
+
+17
+
+MPG-plus 16
+Gripper for small components
+
+Jaw design
+
+IT Vertically positioned prism IK Horizontally positioned prism
+
+A workpiece, which is gripped using three points of contact, can be 
+reliably gripped with high repeatability. A system with more than three 
+points of contact is overdetermined. The drawing shows two alternative 
+gripper finger designs for coaxial and radial gripping of a cylindrical part.
+
+Adapter plate
+
+1 Gripper connection
+GL Fit for centering sleeves
+
+HT Depth of the centering sleeve 
+hole in the counter part
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 16 0305487
+
+i The adapter plate is a separately ordered, optional accessory.
+
+Adapter plate
+
+HK Not included in the scope of 
+delivery
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 16 0305487
+
+i The adapter plate is a separately ordered, optional accessory.
+
+SDV-P pressure maintenance valve
+
+4 Grippers IT SDV-P pressure maintenance 
+valve
+
+The SDV-P pressure maintenance valve ensures in emergency STOP 
+situations that the pressure in the piston chamber of pneumatic gripper, 
+swivel, linear, and quick-change modules is temporarily maintained.
+
+Description ID Recommended hose diameter
+
+[mm]
+
+Pressure maintenance valve
+
+SDV-P 04 0403130 6
+
+Pressure maintenance valve with air bleed screw
+
+SDV-P 04-E 0300120 6
+
+i In order to achieve the specified closing and opening time for each 
+gripper variant, the recommended hose diameter must be used. The 
+direct allocation of the respective variant of the gripper for the 
+respective SDV-P can be found at schunk.com.
+
+
+
+18
+
+MPG-plus 16
+Gripper for small components
+
+Finger blanks with BSWS ABR-BSWS-MPG-plus 16
+
+2 Finger connection IT Machining volume
+
+Finger blanks for customized subsequent machining with integrated jaw 
+quick-change system for precise and fast finger changes.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 16 0302892 2
+
+Finger blanks with BSWS
+
+IT Included in the jaw quick-
+change system's scope of 
+delivery
+
+The finger blanks with jaw quick-change system allow fast and manual 
+gripper finger changes. The mechanical interface to the gripper is already 
+integrated. Only the specific workpiece geometry needs to be machined 
+into the finger blank.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 16 0302892 2
+
+Modular Assembly Automation
+
+4 Grippers
+IT CLM/KLM/LM/ELP/ELM/ELS/HLM 
+
+linear modules
+
+IK ASG adapter plate
+
+Grippers and linear modules can be combined with standard adapter 
+plates from the modular assembly system. For more information see our 
+main catalog "Modular Assembly Automation".
+
+
+
+19
+
+MPG-plus 16
+Gripper for small components
+
+Inductive Proximity Switches
+
+AQ Cable outlet IT Sensor IN ...
+
+Description ID Often combined
+
+Inductive proximity switches
+
+IN 30K-S-M8-PNP 1001272 ●
+
+Cable extension
+
+KV BW08-SG08 3P-0030-PNP 0301495
+
+KV BW08-SG08 3P-0100-PNP 0301496
+
+KV BW08-SG08 3P-0200-PNP 0301497 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG08-L 3P-0300-PNP 0301622 ●
+
+KA BG08-L 3P-0500-PNP 0301623
+
+KA BW08-L 3P-0300-PNP 0301594
+
+KA BW08-L 3P-0500-PNP 0301502
+
+Sensor distributor
+
+V2-M8 0301775 ●
+
+V4-M8 0301746
+
+V8-M8 0301751
+
+i Two sensors are required per unit for monitoring two positions. On 
+option, extension cables and sensor distributors are available. 
+Additional product variants of the sensor, and further information and 
+technical data can be found in the catalog chapter sensor system.
+
+
+
+20
+
+MPG-plus 20
+Gripper for small components
+
+Gripping force O.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Gripping force I.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Dimensions and maximum loads
+
+Mx max. 0.3 Nm
+
+My max. 0.3 Nm
+
+Mz max. 0.3 Nm
+
+Fz max. 50 N
+
+i The specified torques and forces are static 
+values, apply for each base jaw, and may 
+occur simultaneously. My may arise in 
+addition to the moment generated by the 
+gripping force itself.
+
+Technical data
+
+Description MPG-plus 20 MPG-plus 20-AS MPG-plus 20-IS MPG-plus 20-FPS
+
+ID 0305491 0305492 0305493 0305494
+
+Stroke per jaw [mm] 2 2 2 2
+
+Closing/opening force [N] 34/30 42/- -/37 34/30
+
+Min. spring force [N] 8 7
+
+Weight [kg] 0.035 0.042 0.042 0.04
+
+Recommended workpiece weight [kg] 0.17 0.17 0.17 0.17
+
+Fluid consumption double stroke [cm³] 0.41 1.38 0.84 0.41
+
+Min./nom./max. operating pressure [bar] 2/6/8 4/6/6.5 4/6/6.5 2/6/8
+
+Closing/opening time [s] 0.012/0.012 0.012/0.018 0.018/0.012 0.012/0.012
+
+Closing/opening time with spring [s] 0.06 0.06
+
+Max. permissible finger length [mm] 25 25 25 25
+
+Max. permissible mass per finger [kg] 0.01 0.01 0.01 0.01
+
+Protection class IP 30 30 30 30
+
+Min./max. ambient temperature [°C] 5/90 5/90 5/90 5/90
+
+Repeat accuracy [mm] 0.02 0.02 0.02 0.02
+
+Dimensions X x Y x Z [mm] 20 x 16 x 24.9 20 x 16 x 33.9 20 x 16 x 33.9 20 x 16 x 34.9
+
+Options and their characteristics
+
+High-temperature version 39305491 39305492 39305493 39305494
+
+Min./max. ambient temperature [°C] 5/100 5/100 5/100 5/100
+
+
+
+21
+
+MPG-plus 20
+Gripper for small components
+
+Main view
+
+The drawing shows the basic version of the gripper with open jaws, 
+without dimensional consideration of the options described below.
+
+i The SDV-P pressure maintenance valve can also be used for I.D. or O.D. 
+gripping alternatively or in addition to the spring-loaded, mechanical 
+gripping force maintenance device (see catalog section on 
+accessories).
+
+A, a Main / direct connection, 
+gripper opening
+
+B, b Main / direct connection, 
+gripper closing
+
+1 Gripper connection
+2 Finger connection
+
+GL Fit for centering sleeves
+GM Fit for centering pins
+HT Depth of the centering sleeve 
+
+hole in the counter part
+
+IT Sensor IN ...
+
+Maximum permitted finger projection
+
+Permitted range Inadmissible range
+
+Lmax is equivalent to the maximum permitted finger length, see the 
+technical data table.
+
+
+
+22
+
+MPG-plus 20
+Gripper for small components
+
+Hose-free direct connection M2.5
+
+3 Adapter 4 Grippers
+
+The direct connection is used for supplying compressed air without hoses. 
+Instead, the pressure medium is fed through bore-holes in the mounting 
+plate.
+
+Gripping force maintenance device AS / IS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Jaw design
+
+IT Vertically positioned prism IK Horizontally positioned prism
+
+A workpiece, which is gripped using three points of contact, can be 
+reliably gripped with high repeatability. A system with more than three 
+points of contact is overdetermined. The drawing shows two alternative 
+gripper finger designs for coaxial and radial gripping of a cylindrical part.
+
+Flexible position sensor
+
+The following FPS position sensor can differentiate between five 
+programmable areas or switching points for the stroke of a gripper, and 
+can be used in connection with a PC as a measuring system.
+
+
+
+23
+
+MPG-plus 20
+Gripper for small components
+
+Adapter plate
+
+1 Gripper connection
+GL Fit for centering sleeves
+
+HT Depth of the centering sleeve 
+hole in the counter part
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 20 0305497
+
+i The adapter plate is a separately ordered, optional accessory.
+
+Adapter plate
+
+HK Not included in the scope of 
+delivery
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 20 0305497
+
+i The adapter plate is a separately ordered, optional accessory.
+
+SDV-P pressure maintenance valve
+
+4 Grippers IT SDV-P pressure maintenance 
+valve
+
+The SDV-P pressure maintenance valve ensures in emergency STOP 
+situations that the pressure in the piston chamber of pneumatic gripper, 
+swivel, linear, and quick-change modules is temporarily maintained.
+
+Description ID Recommended hose diameter
+
+[mm]
+
+Pressure maintenance valve
+
+SDV-P 04 0403130 6
+
+Pressure maintenance valve with air bleed screw
+
+SDV-P 04-E 0300120 6
+
+i In order to achieve the specified closing and opening time for each 
+gripper variant, the recommended hose diameter must be used. The 
+direct allocation of the respective variant of the gripper for the 
+respective SDV-P can be found at schunk.com.
+
+Finger blanks with BSWS ABR-BSWS-MPG-plus 20
+
+2 Finger connection IT Machining volume
+
+Finger blanks for customized subsequent machining with integrated jaw 
+quick-change system for precise and fast finger changes.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 20 0302893 2
+
+
+
+24
+
+MPG-plus 20
+Gripper for small components
+
+Finger blanks with BSWS
+
+IT Included in the jaw quick-
+change system's scope of 
+delivery
+
+The finger blanks with jaw quick-change system allow fast and manual 
+gripper finger changes. The mechanical interface to the gripper is already 
+integrated. Only the specific workpiece geometry needs to be machined 
+into the finger blank.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 20 0302893 2
+
+Finger blanks ABR-MPG-plus 20
+
+GM Fit for centering pins
+
+The drawing shows the finger blank which can be reworked by the 
+customer.
+
+Description ID Material Scope of delivery
+
+Finger blank
+
+ABR-MPG-plus 20 0340210 Aluminum 2
+
+
+
+25
+
+MPG-plus 20
+Gripper for small components
+
+Attachment valves
+
+4 Grippers
+IT Micro valves
+IK Sensor
+
+IL Sensor distributor
+IM Y distributor
+
+The set of attachment valves reduces the compressed air consumption as 
+there is no need to ventilate or bleed the supply lines. This can also 
+reduce cycle time. The hose-free direct assembly of the micro valves 
+reduces the hosing effort for the gripper. To further simplify electrical 
+connection of the valves and sensors, their signals can be bundled via an 
+optional distributor.
+
+Description ID Often combined
+
+Attachment valve
+
+ABV-MV15-S2-M5 0303375
+
+ABV-MV15-S2-M5-V2-M8 0303376
+
+ABV-MV15-S2-M5-V4-M8 0303377 ●
+
+ABV-MV15-S2-M5-V8-M8 0303378
+
+i A set of add-on valves ABV is required per actuator. The ABV set 
+contains two 3/2 micro valves, a valve base, pneumatic screw 
+connections, and optionally a sensor distributor with two, four or 
+eight inputs or outputs. Sensors for monitoring the gripper need to be 
+ordered separately. Pneumatic hoses are not included in the scope of 
+delivery.
+
+Modular Assembly Automation
+
+4 Grippers
+IT CLM/KLM/LM/ELP/ELM/ELS/HLM 
+
+linear modules
+
+IK ASG adapter plate
+
+Grippers and linear modules can be combined with standard adapter 
+plates from the modular assembly system. For more information see our 
+main catalog "Modular Assembly Automation".
+
+
+
+26
+
+MPG-plus 20
+Gripper for small components
+
+Inductive Proximity Switches
+
+AQ Cable outlet IT Sensor IN ...
+
+Description ID Often combined
+
+Inductive proximity switches
+
+IN 40-S-M12 0301574
+
+IN 40-S-M8 0301474 ●
+
+INK 40-S 0301555
+
+Cable extension
+
+KV BG12-SG12 3P-0030-PNP 0301999
+
+KV BG12-SG12 3P-0060-PNP 0301998
+
+KV BW08-SG08 3P-0030-PNP 0301495
+
+KV BW08-SG08 3P-0100-PNP 0301496
+
+KV BW08-SG08 3P-0200-PNP 0301497 ●
+
+KV BW12-SG12 3P-0030-PNP 0301595
+
+KV BW12-SG12 3P-0100-PNP 0301596
+
+KV BW12-SG12 3P-0200-PNP 0301597
+
+clip for plug/socket
+
+CLI-M12 0301464
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG08-L 3P-0300-PNP 0301622 ●
+
+KA BG08-L 3P-0500-PNP 0301623
+
+KA BG12-L 3P-0500-PNP 30016369
+
+KA BW08-L 3P-0300-PNP 0301594
+
+KA BW08-L 3P-0500-PNP 0301502
+
+KA BW12-L 3P-0300-PNP 0301503
+
+KA BW12-L 3P-0500-PNP 0301507
+
+Sensor distributor
+
+V2-M12 0301776 ●
+
+V2-M8 0301775 ●
+
+V4-M12 0301747
+
+V4-M8 0301746
+
+V8-M12 0301752
+
+V8-M8 0301751
+
+i Two sensors are required per unit for monitoring two positions. On 
+option, extension cables and sensor distributors are available. 
+Additional product variants of the sensor, and further information and 
+technical data can be found in the catalog chapter sensor system.
+
+Flexible position sensor
+
+IT FPS-F5 evaluation electronic IK FPS-S sensor
+
+The FPS monitoring is only possible for this size in combination with the 
+appropriate FPS variant of the gripper.
+
+Description ID Often combined
+
+Sensor
+
+FPS-S 13 0301705
+
+Cable extension
+
+KV BG08-SG08 3P-0050 0301598
+
+KV BG08-SG08 3P-0100 0301599
+
+Evaluation electronics
+
+FPS-F5 0301805 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG16-L 12P-1000 0301801
+
+i When using an FPS system, an FPS sensor (FPS-S) as well as an 
+electronic processor (FPS-F5 / F5 T) are required for each gripper as 
+well as a mounting kit (AS), if listed. Cable extensions (KV) are 
+optionally available - see catalog chapter “Accessories.”
+
+
+
+27
+
+MPG-plus 20
+Gripper for small components
+
+
+
+28
+
+MPG-plus 25
+Gripper for small components
+
+Gripping force O.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Gripping force I.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Dimensions and maximum loads
+
+Mx max. 0.5 Nm
+
+My max. 0.42 Nm
+
+Mz max. 1.5 Nm
+
+Fz max. 70 N
+
+i The specified torques and forces are static 
+values, apply for each base jaw, and may 
+occur simultaneously. My may arise in 
+addition to the moment generated by the 
+gripping force itself.
+
+Technical data
+
+Description MPG-plus 25 MPG-plus 25-AS MPG-plus 25-IS MPG-plus 25-FPS
+
+ID 0305501 0305502 0305503 0305504
+
+Stroke per jaw [mm] 3 3 3 3
+
+Closing/opening force [N] 38/32 48/- -/41 38/32
+
+Min. spring force [N] 10 9
+
+Weight [kg] 0.06 0.07 0.07 0.06
+
+Recommended workpiece weight [kg] 0.19 0.19 0.19 0.19
+
+Fluid consumption double stroke [cm³] 0.8 2.5 2 0.8
+
+Min./nom./max. operating pressure [bar] 2/6/8 4/6/6.5 4/6/6.5 2/6/8
+
+Closing/opening time [s] 0.017/0.017 0.017/0.033 0.033/0.017 0.017/0.017
+
+Closing/opening time with spring [s] 0.10 0.10
+
+Max. permissible finger length [mm] 32 32 32 32
+
+Max. permissible mass per finger [kg] 0.02 0.02 0.02 0.02
+
+Protection class IP 30 30 30 30
+
+Min./max. ambient temperature [°C] 5/90 5/90 5/90 5/90
+
+Repeat accuracy [mm] 0.02 0.02 0.02 0.02
+
+Dimensions X x Y x Z [mm] 26 x 18 x 27 26 x 18 x 39.8 26 x 18 x 39.8 26 x 18 x 38.8
+
+Options and their characteristics
+
+High-temperature version 39305501 39305502 39305503 39305504
+
+Min./max. ambient temperature [°C] 5/100 5/100 5/100 5/100
+
+Precision version 0305506 0305508 0305509
+
+
+
+29
+
+MPG-plus 25
+Gripper for small components
+
+Main view
+
+The drawing shows the basic version of the gripper with open jaws, 
+without dimensional consideration of the options described below.
+
+i The SDV-P pressure maintenance valve can also be used for I.D. or O.D. 
+gripping alternatively or in addition to the spring-loaded, mechanical 
+gripping force maintenance device (see catalog section on 
+accessories).
+
+A, a Main / direct connection, 
+gripper opening
+
+B, b Main / direct connection, 
+gripper closing
+
+1 Gripper connection
+2 Finger connection
+
+GL Fit for centering sleeves
+GM Fit for centering pins
+HT Depth of the centering sleeve 
+
+hole in the counter part
+
+IT MMS 22...-PI2-... sensor
+
+Maximum permitted finger projection
+
+Permitted range Inadmissible range
+
+Lmax is equivalent to the maximum permitted finger length, see the 
+technical data table.
+
+
+
+30
+
+MPG-plus 25
+Gripper for small components
+
+Hose-free direct connection M3
+
+3 Adapter 4 Grippers
+
+The direct connection is used for supplying compressed air without hoses. 
+Instead, the pressure medium is fed through bore-holes in the mounting 
+plate.
+
+Gripping force maintenance AS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Gripping force maintenance IS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Jaw design
+
+IT Vertically positioned prism IK Horizontally positioned prism
+
+A workpiece, which is gripped using three points of contact, can be 
+reliably gripped with high repeatability. A system with more than three 
+points of contact is overdetermined. The drawing shows two alternative 
+gripper finger designs for coaxial and radial gripping of a cylindrical part.
+
+
+
+31
+
+MPG-plus 25
+Gripper for small components
+
+Precision version
+
+BT For AS / IS version
+GL Fit for centering sleeves
+
+GM Fit for centering pins
+IT Length of the usable finger 
+
+surface
+
+The indicated tolerances just refer to the variants of precision versions 
+shown in the chart of technical specifications. All other variants of 
+precision versions are available on request.
+
+Flexible position sensor
+
+The following FPS position sensor can differentiate between five 
+programmable areas or switching points for the stroke of a gripper, and 
+can be used in connection with a PC as a measuring system.
+
+Adapter plate
+
+1 Gripper connection
+GL Fit for centering sleeves
+
+HT Depth of the centering sleeve 
+hole in the counter part
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 25 0305507
+
+i The adapter plate is a separately ordered, optional accessory.
+
+Adapter plate
+
+HK Not included in the scope of 
+delivery
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 25 0305507
+
+i The adapter plate is a separately ordered, optional accessory.
+
+
+
+32
+
+MPG-plus 25
+Gripper for small components
+
+SDV-P pressure maintenance valve
+
+4 Grippers IT SDV-P pressure maintenance 
+valve
+
+The SDV-P pressure maintenance valve ensures in emergency STOP 
+situations that the pressure in the piston chamber of pneumatic gripper, 
+swivel, linear, and quick-change modules is temporarily maintained.
+
+Description ID Recommended hose diameter
+
+[mm]
+
+Pressure maintenance valve
+
+SDV-P 04 0403130 6
+
+Pressure maintenance valve with air bleed screw
+
+SDV-P 04-E 0300120 6
+
+i In order to achieve the specified closing and opening time for each 
+gripper variant, the recommended hose diameter must be used. The 
+direct allocation of the respective variant of the gripper for the 
+respective SDV-P can be found at schunk.com.
+
+Finger blanks with BSWS ABR-BSWS-MPG-plus 25
+
+2 Finger connection IT Machining volume
+
+Finger blanks for customized subsequent machining with integrated jaw 
+quick-change system for precise and fast finger changes.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 25 0302894 2
+
+Finger blanks with BSWS
+
+IT Included in the jaw quick-
+change system's scope of 
+delivery
+
+The finger blanks with jaw quick-change system allow fast and manual 
+gripper finger changes. The mechanical interface to the gripper is already 
+integrated. Only the specific workpiece geometry needs to be machined 
+into the finger blank.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 25 0302894 2
+
+Finger blanks ABR-MPG-plus 25
+
+GM Fit for centering pins
+
+The drawing shows the finger blank which can be reworked by the 
+customer.
+
+Description ID Material Scope of delivery
+
+Finger blank
+
+ABR-MPG-plus 25 0340211 Aluminum 2
+
+
+
+33
+
+MPG-plus 25
+Gripper for small components
+
+Object distance sensor OAS-MPG-plus 25
+
+AQ Cable outlet BR Through-hole
+
+Object distance sensor for detecting a workpiece and for measuring its 
+distance to the gripper.
+
+Description ID
+
+Object distance sensor
+
+OAS-MPG-plus 25 0308891
+
+Object distance sensor
+
+AQ Cable outlet
+HK Not included in the scope of 
+
+delivery
+
+IT OAS
+
+Optical distance and presence sensor for direct mounting to to the 
+gripper. One OAS sensor can be attached per gripper.
+
+Description ID
+
+Object distance sensor
+
+OAS-MPG-plus 25 0308891
+
+Evaluation electronics
+
+OAS-V09-D 0308865
+
+OAS-V10-A 0308867
+
+OAS-V10-D 0308866
+
+i The evaluation of the OAS can be done with either an analog or digital 
+evaluation unit and with or without a display. The states which should 
+be detected can be easily taught.
+
+
+
+34
+
+MPG-plus 25
+Gripper for small components
+
+Attachment valves
+
+4 Grippers
+IT Micro valves
+IK Sensor
+
+IL Sensor distributor
+IM Y distributor
+
+The set of attachment valves reduces the compressed air consumption as 
+there is no need to ventilate or bleed the supply lines. This can also 
+reduce cycle time. The hose-free direct assembly of the micro valves 
+reduces the hosing effort for the gripper. To further simplify electrical 
+connection of the valves and sensors, their signals can be bundled via an 
+optional distributor.
+
+Description ID Often combined
+
+Attachment valve
+
+ABV-MV15-S2-M5 0303375
+
+ABV-MV15-S2-M5-V2-M8 0303376
+
+ABV-MV15-S2-M5-V4-M8 0303377 ●
+
+ABV-MV15-S2-M5-V8-M8 0303378
+
+i A set of add-on valves ABV is required per actuator. The ABV set 
+contains two 3/2 micro valves, a valve base, pneumatic screw 
+connections, and optionally a sensor distributor with two, four or 
+eight inputs or outputs. Sensors for monitoring the gripper need to be 
+ordered separately. Pneumatic hoses are not included in the scope of 
+delivery.
+
+Modular Assembly Automation
+
+4 Grippers
+IT CLM/KLM/LM/ELP/ELM/ELS/HLM 
+
+linear modules
+
+IK ASG adapter plate
+
+Grippers and linear modules can be combined with standard adapter 
+plates from the modular assembly system. For more information see our 
+main catalog "Modular Assembly Automation".
+
+Attachment kit for proximity switch IN 40
+
+The attachment kit includes a bracket, switch cams, and mounting screws. 
+Proximity switches have to be ordered separately.
+
+Description ID
+
+Attachment kit for proximity switch
+
+AS-IN40-MPG-plus 25 0305505
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+
+
+35
+
+MPG-plus 25
+Gripper for small components
+
+IN 40 inductive proximity switches
+
+AQ Cable outlet IT Sensor IN ...
+
+End position monitoring can be mounted with an attachment kit.
+
+Description ID Often combined
+
+Attachment kit for proximity switch
+
+AS-IN40-MPG-plus 25 0305505
+
+Inductive proximity switches
+
+IN 40-S-M12 0301574
+
+IN 40-S-M8 0301474 ●
+
+INK 40-S 0301555
+
+i Two sensors (closer/S) are required for each unit and extension cables 
+are available as an option. This attachment kit needs to be ordered 
+optionally as an accessory. For sensor cables, note the minimum 
+permissible bending radii. These are generally 35 mm.
+
+Attachment kit for proximity switch IN 5
+
+IT Sensor IN ...
+
+The attachment kit includes a bracket, switch cams, and mounting screws. 
+Proximity switches have to be ordered separately.
+
+Description ID
+
+Attachment kit for proximity switch
+
+AS-IN5-MPG-plus 25 0340150
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+IN 5 inductive proximity switches
+
+End position monitoring can be mounted with an attachment kit.
+
+Description ID Often combined
+
+Attachment kit for proximity switch
+
+AS-IN5-MPG-plus 25 0340150
+
+Inductive proximity switches
+
+IN 5-S-M12 0301569
+
+IN 5-S-M8 0301469 ●
+
+i Two sensors (closer/S) are required for each unit and extension cables 
+are available as an option. This attachment kit needs to be ordered 
+optionally as an accessory. For sensor cables, note the minimum 
+permissible bending radii. These are generally 35 mm.
+
+
+
+36
+
+MPG-plus 25
+Gripper for small components
+
+Flexible position sensor
+
+IT FPS-F5 evaluation electronic IK FPS-S sensor
+
+The FPS monitoring is only possible for this size in combination with the 
+appropriate FPS variant of the gripper.
+
+Description ID Often combined
+
+Sensor
+
+FPS-S 13 0301705
+
+Cable extension
+
+KV BG08-SG08 3P-0050 0301598
+
+KV BG08-SG08 3P-0100 0301599
+
+Evaluation electronics
+
+FPS-F5 0301805 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG16-L 12P-1000 0301801
+
+i When using an FPS system, an FPS sensor (FPS-S) as well as an 
+electronic processor (FPS-F5 / F5 T) are required for each gripper as 
+well as a mounting kit (AS), if listed. Cable extensions (KV) are 
+optionally available - see catalog chapter “Accessories.”
+
+Monitoring for stacked arrangements
+
+CAUTION: Monitoring is carried out by magnetic switches, and in case of 
+side-by-side assembly of several units, a minimum distance of X mm 
+between the units must be maintained.
+
+
+
+37
+
+MPG-plus 25
+Gripper for small components
+
+Programmable magnetic switch MMS 22-PI2
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+Position monitoring with two programmable positions per sensor and 
+electronics built into the sensor. Can be programmed using MT magnetic 
+teaching tool (included in the scope of delivery) or ST plug teaching tool 
+(optional). End position monitoring for mounting in the C-slot. If the ST 
+plug teaching tools are listed in the table provided, teaching is only 
+possible with the ST teaching tools.
+
+Description ID Often combined
+
+Programmable magnetic switch
+
+MMS 22-PI2-S-M8-PNP 0301180 ●
+
+MMSK 22-PI2-S-PNP 0301182
+
+Programmable magnetic switch with lateral cable outlet
+
+MMS 22-PI2-S-M8-PNP-SA 0301186
+
+MMSK 22-PI2-S-PNP-SA 0301188
+
+Programmable magnetic switch with stainless steel housing
+
+MMS 22-PI2-S-M8-PNP-HD 0301130
+
+MMSK 22-PI2-S-PNP-HD 0301132
+
+i One sensor is required per unit for monitoring two positions. 
+Extension cables and sensor distributors are optionally available. 
+Additional product variants of the sensor, and further information and 
+technical data can be found in the catalog chapter sensor systems.
+
+MMS-P programmable magnetic switch
+
+GN Limit stop for sensor
+IT Vertical attachment of the 
+
+bracket
+
+IK Horizontal attachment of the 
+bracket
+
+Position monitoring with two programmable positions per sensor. End 
+position monitoring for mounting in the C-slot.
+
+Description ID Often combined
+
+Programmable magnetic switch
+
+MMSK-P 22-S-PNP 0301371
+
+MMS-P 22-S-M8-PNP 0301370 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG08-L 4P-0500 0307767 ●
+
+KA BG08-L 4P-1000 0307768
+
+KA BW08-L 4P-0500 0307765
+
+KA BW08-L 4P-1000 0307766
+
+Sensor distributor
+
+V2-M8-4P-2XM8-3P 0301380
+
+i The bracket (90) is delivered vertically mounted. To use the magnetic 
+sensor in a horizontal orientation, the bracket can be horizontally 
+assembled (91). The mounting bracket has an internal stop for the 
+MMS-P (74).
+
+
+
+38
+
+MPG-plus 25
+Gripper for small components
+
+MMS-A analog position sensor
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+No-contact measuring, analog multi-position monitoring for any number 
+of positions.
+
+Description ID
+
+Analog position sensor
+
+MMS 22-A-10V-M08 0315825
+
+MMS 22-A-10V-M12 0315828
+
+i One sensor is required for each gripper. No additional mounting kit is 
+required – the gripper is equipped for use of the sensor by default. 
+Further information and technical data can be found in the catalog 
+chapter sensor systems.
+
+Flexible position sensor with MMS-A
+
+GN Limit stop for sensor
+IT MMS 22-A-... sensor
+
+IK FPS-F5 evaluation electronic
+IL Connection cables
+
+Flexible position monitoring of up to five positions.
+
+Description ID
+
+Analog position sensor
+
+MMS 22-A-05V-M08 0315805
+
+Evaluation electronics
+
+FPS-F5 0301805
+
+Connection cables
+
+KA BG16-L 12P-1000 0301801
+
+i When using an FPS system, one MMS 22-A-05V and one electronic 
+processor (FPS-F5) are required per each gripper, as well as a mounting 
+kit (AS), if listed. Cable extensions (KV) are optionally available - see 
+catalog chapter “Accessories.”
+
+
+
+39
+
+MPG-plus 25
+Gripper for small components
+
+Programmable magnetic switch MMS-IO-Link
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+Sensor for multi-position monitoring through detection of the complete 
+gripper stroke. The sensor is mounted directly in the C-slot of the gripper. 
+Sensor programming on the gripper takes place via the IO-Link interface 
+or the MT magnetic teach tool (included in scope of delivery). An IO-Link 
+master is required for operation.
+
+Description ID
+
+Programmable magnetic switch
+
+MMS 22-IOL-M08 0315830
+
+MMS 22-IOL-M12 0315835
+
+i One sensor is required for each gripper. No additional mounting kit is 
+required – the gripper is equipped for use of the sensor by default. 
+Further information and technical data can be found in the catalog 
+chapter sensor systems.
+
+
+
+40
+
+MPG-plus 32
+Gripper for small components
+
+Gripping force O.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Gripping force I.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Dimensions and maximum loads
+
+Mx max. 1.5 Nm
+
+My max. 1 Nm
+
+Mz max. 3 Nm
+
+Fz max. 105 N
+
+i The specified torques and forces are static 
+values, apply for each base jaw, and may 
+occur simultaneously. My may arise in 
+addition to the moment generated by the 
+gripping force itself.
+
+Technical data
+
+Description MPG-plus 32 MPG-plus 32-AS MPG-plus 32-IS MPG-plus 32-FPS
+
+ID 0305511 0305512 0305513 0305514
+
+Stroke per jaw [mm] 4 4 4 4
+
+Closing/opening force [N] 80/70 105/- -/90 80/70
+
+Min. spring force [N] 25 20
+
+Weight [kg] 0.1 0.13 0.13 0.13
+
+Recommended workpiece weight [kg] 0.43 0.43 0.43 0.43
+
+Fluid consumption double stroke [cm³] 1.7 4.1 3.5 1.7
+
+Min./nom./max. operating pressure [bar] 2/6/8 4/6/6.5 4/6/6.5 2/6/8
+
+Closing/opening time [s] 0.02/0.02 0.03/0.04 0.04/0.03 0.02/0.02
+
+Closing/opening time with spring [s] 0.20 0.20
+
+Max. permissible finger length [mm] 40 40 40 40
+
+Max. permissible mass per finger [kg] 0.04 0.04 0.04 0.04
+
+Protection class IP 30 30 30 30
+
+Min./max. ambient temperature [°C] 5/90 5/90 5/90 5/90
+
+Repeat accuracy [mm] 0.02 0.02 0.02 0.02
+
+Dimensions X x Y x Z [mm] 32 x 22 x 34 32 x 22 x 47.3 32 x 22 x 47.3 32 x 22 x 44.8
+
+Options and their characteristics
+
+High-temperature version 39305511 39305512 39305513 39305514
+
+Min./max. ambient temperature [°C] 5/100 5/100 5/100 5/100
+
+Precision version 0305516 0305518 0305519
+
+
+
+41
+
+MPG-plus 32
+Gripper for small components
+
+Main view
+
+The drawing shows the basic version of the gripper with open jaws, 
+without dimensional consideration of the options described below.
+
+i The SDV-P pressure maintenance valve can also be used for I.D. or O.D. 
+gripping alternatively or in addition to the spring-loaded, mechanical 
+gripping force maintenance device (see catalog section on 
+accessories).
+
+A, a Main / direct connection, 
+gripper opening
+
+B, b Main / direct connection, 
+gripper closing
+
+1 Gripper connection
+2 Finger connection
+
+GL Fit for centering sleeves
+GM Fit for centering pins
+HT Depth of the centering sleeve 
+
+hole in the counter part
+
+IT MMS 22...-PI2-... sensor
+
+Maximum permitted finger projection
+
+Permitted range Inadmissible range
+
+Lmax is equivalent to the maximum permitted finger length, see the 
+technical data table.
+
+
+
+42
+
+MPG-plus 32
+Gripper for small components
+
+Hose-free direct connection M3
+
+3 Adapter 4 Grippers
+
+The direct connection is used for supplying compressed air without hoses. 
+Instead, the pressure medium is fed through bore-holes in the mounting 
+plate.
+
+Gripping force maintenance AS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Gripping force maintenance IS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Jaw design
+
+IT Vertically positioned prism IK Horizontally positioned prism
+
+A workpiece, which is gripped using three points of contact, can be 
+reliably gripped with high repeatability. A system with more than three 
+points of contact is overdetermined. The drawing shows two alternative 
+gripper finger designs for coaxial and radial gripping of a cylindrical part.
+
+
+
+43
+
+MPG-plus 32
+Gripper for small components
+
+Precision version
+
+BT For AS / IS version
+GL Fit for centering sleeves
+
+GM Fit for centering pins
+IT Length of the usable finger 
+
+surface
+
+The indicated tolerances just refer to the variants of precision versions 
+shown in the chart of technical specifications. All other variants of 
+precision versions are available on request.
+
+Flexible position sensor
+
+The following FPS position sensor can differentiate between five 
+programmable areas or switching points for the stroke of a gripper, and 
+can be used in connection with a PC as a measuring system.
+
+Adapter plate
+
+1 Gripper connection
+GL Fit for centering sleeves
+
+HT Depth of the centering sleeve 
+hole in the counter part
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 32 0305517
+
+i The adapter plate is a separately ordered, optional accessory.
+
+Adapter plate
+
+HK Not included in the scope of 
+delivery
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 32 0305517
+
+i The adapter plate is a separately ordered, optional accessory.
+
+
+
+44
+
+MPG-plus 32
+Gripper for small components
+
+SDV-P pressure maintenance valve
+
+4 Grippers IT SDV-P pressure maintenance 
+valve
+
+The SDV-P pressure maintenance valve ensures in emergency STOP 
+situations that the pressure in the piston chamber of pneumatic gripper, 
+swivel, linear, and quick-change modules is temporarily maintained.
+
+Description ID Recommended hose diameter
+
+[mm]
+
+Pressure maintenance valve
+
+SDV-P 04 0403130 6
+
+Pressure maintenance valve with air bleed screw
+
+SDV-P 04-E 0300120 6
+
+i In order to achieve the specified closing and opening time for each 
+gripper variant, the recommended hose diameter must be used. The 
+direct allocation of the respective variant of the gripper for the 
+respective SDV-P can be found at schunk.com.
+
+Finger blanks with BSWS ABR-BSWS-MPG-plus 32
+
+2 Finger connection IT Machining volume
+
+Finger blanks for customized subsequent machining with integrated jaw 
+quick-change system for precise and fast finger changes.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 32 0302895 2
+
+Finger blanks with BSWS
+
+IT Included in the jaw quick-
+change system's scope of 
+delivery
+
+The finger blanks with jaw quick-change system allow fast and manual 
+gripper finger changes. The mechanical interface to the gripper is already 
+integrated. Only the specific workpiece geometry needs to be machined 
+into the finger blank.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 32 0302895 2
+
+Finger blanks ABR-MPG-plus 32
+
+GM Fit for centering pins
+
+The drawing shows the finger blank which can be reworked by the 
+customer.
+
+Description ID Material Scope of delivery
+
+Finger blank
+
+ABR-MPG-plus 32 0340212 Aluminum 2
+
+
+
+45
+
+MPG-plus 32
+Gripper for small components
+
+Object distance sensor OAS-MPG-plus 32
+
+AQ Cable outlet BR Through-hole
+
+Object distance sensor for detecting a workpiece and for measuring its 
+distance to the gripper.
+
+Description ID
+
+Object distance sensor
+
+OAS-MPG-plus 32 0308892
+
+Object distance sensor
+
+AQ Cable outlet
+HK Not included in the scope of 
+
+delivery
+
+IT OAS
+
+Optical distance and presence sensor for direct mounting to to the 
+gripper. One OAS sensor can be attached per gripper.
+
+Description ID
+
+Object distance sensor
+
+OAS-MPG-plus 32 0308892
+
+Evaluation electronics
+
+OAS-V09-D 0308865
+
+OAS-V10-A 0308867
+
+OAS-V10-D 0308866
+
+i The evaluation of the OAS can be done with either an analog or digital 
+evaluation unit and with or without a display. The states which should 
+be detected can be easily taught.
+
+
+
+46
+
+MPG-plus 32
+Gripper for small components
+
+Attachment valves
+
+4 Grippers
+IT Micro valves
+IK Sensor
+
+IL Sensor distributor
+IM Y distributor
+
+The set of attachment valves reduces the compressed air consumption as 
+there is no need to ventilate or bleed the supply lines. This can also 
+reduce cycle time. The hose-free direct assembly of the micro valves 
+reduces the hosing effort for the gripper. To further simplify electrical 
+connection of the valves and sensors, their signals can be bundled via an 
+optional distributor.
+
+Description ID Often combined
+
+Attachment valve
+
+ABV-MV15-S2-M5 0303375
+
+ABV-MV15-S2-M5-V2-M8 0303376
+
+ABV-MV15-S2-M5-V4-M8 0303377 ●
+
+ABV-MV15-S2-M5-V8-M8 0303378
+
+i A set of add-on valves ABV is required per actuator. The ABV set 
+contains two 3/2 micro valves, a valve base, pneumatic screw 
+connections, and optionally a sensor distributor with two, four or 
+eight inputs or outputs. Sensors for monitoring the gripper need to be 
+ordered separately. Pneumatic hoses are not included in the scope of 
+delivery.
+
+Modular Assembly Automation
+
+4 Grippers
+IT CLM/KLM/LM/ELP/ELM/ELS/HLM 
+
+linear modules
+
+IK ASG adapter plate
+
+Grippers and linear modules can be combined with standard adapter 
+plates from the modular assembly system. For more information see our 
+main catalog "Modular Assembly Automation".
+
+Attachment kit for proximity switch IN 40
+
+The attachment kit includes a bracket, switch cams, and mounting screws. 
+Proximity switches have to be ordered separately.
+
+Description ID
+
+Attachment kit for proximity switch
+
+AS-IN40-MPG-plus 32 0305515
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+
+
+47
+
+MPG-plus 32
+Gripper for small components
+
+IN 40 inductive proximity switches
+
+AQ Cable outlet IT Sensor IN ...
+
+End position monitoring can be mounted with an attachment kit.
+
+Description ID Often combined
+
+Attachment kit for proximity switch
+
+AS-IN40-MPG-plus 32 0305515
+
+Inductive proximity switches
+
+IN 40-S-M12 0301574
+
+IN 40-S-M8 0301474 ●
+
+INK 40-S 0301555
+
+i Two sensors (closer/S) are required for each unit and extension cables 
+are available as an option. This attachment kit needs to be ordered 
+optionally as an accessory. For sensor cables, note the minimum 
+permissible bending radii. These are generally 35 mm.
+
+Attachment kit for proximity switch IN 5
+
+IT Sensor IN ...
+
+The attachment kit includes a bracket, switch cams, and mounting screws. 
+Proximity switches have to be ordered separately.
+
+Description ID
+
+Attachment kit for proximity switch
+
+AS-IN5-MPG-plus 32 0340151
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+IN 5 inductive proximity switches
+
+End position monitoring can be mounted with an attachment kit.
+
+Description ID Often combined
+
+Attachment kit for proximity switch
+
+AS-IN5-MPG-plus 32 0340151
+
+Inductive proximity switches
+
+IN 5-S-M12 0301569
+
+IN 5-S-M8 0301469 ●
+
+i Two sensors (closer/S) are required for each unit and extension cables 
+are available as an option. This attachment kit needs to be ordered 
+optionally as an accessory. For sensor cables, note the minimum 
+permissible bending radii. These are generally 35 mm.
+
+
+
+48
+
+MPG-plus 32
+Gripper for small components
+
+Flexible position sensor
+
+IT FPS-F5 evaluation electronic IK FPS-S sensor
+
+The FPS monitoring is only possible for this size in combination with the 
+appropriate FPS variant of the gripper.
+
+Description ID Often combined
+
+Sensor
+
+FPS-S 13 0301705
+
+Cable extension
+
+KV BG08-SG08 3P-0050 0301598
+
+KV BG08-SG08 3P-0100 0301599
+
+Evaluation electronics
+
+FPS-F5 0301805 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG16-L 12P-1000 0301801
+
+i When using an FPS system, an FPS sensor (FPS-S) as well as an 
+electronic processor (FPS-F5 / F5 T) are required for each gripper as 
+well as a mounting kit (AS), if listed. Cable extensions (KV) are 
+optionally available - see catalog chapter “Accessories.”
+
+Monitoring for stacked arrangements
+
+CAUTION: Monitoring is carried out by magnetic switches, and in case of 
+side-by-side assembly of several units, a minimum distance of X mm 
+between the units must be maintained.
+
+
+
+49
+
+MPG-plus 32
+Gripper for small components
+
+Programmable magnetic switch MMS 22-PI2
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+Position monitoring with two programmable positions per sensor and 
+electronics built into the sensor. Can be programmed using MT magnetic 
+teaching tool (included in the scope of delivery) or ST plug teaching tool 
+(optional). End position monitoring for mounting in the C-slot. If the ST 
+plug teaching tools are listed in the table provided, teaching is only 
+possible with the ST teaching tools.
+
+Description ID Often combined
+
+Programmable magnetic switch
+
+MMS 22-PI2-S-M8-PNP 0301180 ●
+
+MMSK 22-PI2-S-PNP 0301182
+
+Programmable magnetic switch with lateral cable outlet
+
+MMS 22-PI2-S-M8-PNP-SA 0301186
+
+MMSK 22-PI2-S-PNP-SA 0301188
+
+Programmable magnetic switch with stainless steel housing
+
+MMS 22-PI2-S-M8-PNP-HD 0301130
+
+MMSK 22-PI2-S-PNP-HD 0301132
+
+i One sensor is required per unit for monitoring two positions. 
+Extension cables and sensor distributors are optionally available. 
+Additional product variants of the sensor, and further information and 
+technical data can be found in the catalog chapter sensor systems.
+
+MMS-P programmable magnetic switch
+
+GN Limit stop for sensor
+IT Vertical attachment of the 
+
+bracket
+
+IK Horizontal attachment of the 
+bracket
+
+Position monitoring with two programmable positions per sensor. End 
+position monitoring for mounting in the C-slot.
+
+Description ID Often combined
+
+Programmable magnetic switch
+
+MMSK-P 22-S-PNP 0301371
+
+MMS-P 22-S-M8-PNP 0301370 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG08-L 4P-0500 0307767 ●
+
+KA BG08-L 4P-1000 0307768
+
+KA BW08-L 4P-0500 0307765
+
+KA BW08-L 4P-1000 0307766
+
+Sensor distributor
+
+V2-M8-4P-2XM8-3P 0301380
+
+i The bracket (90) is delivered vertically mounted. To use the magnetic 
+sensor in a horizontal orientation, the bracket can be horizontally 
+assembled (91). The mounting bracket has an internal stop for the 
+MMS-P (74).
+
+
+
+50
+
+MPG-plus 32
+Gripper for small components
+
+MMS-A analog position sensor
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+No-contact measuring, analog multi-position monitoring for any number 
+of positions.
+
+Description ID
+
+Analog position sensor
+
+MMS 22-A-10V-M08 0315825
+
+MMS 22-A-10V-M12 0315828
+
+i One sensor is required for each gripper. No additional mounting kit is 
+required – the gripper is equipped for use of the sensor by default. 
+Further information and technical data can be found in the catalog 
+chapter sensor systems.
+
+Flexible position sensor with MMS-A
+
+GN Limit stop for sensor
+IT MMS 22-A-... sensor
+
+IK FPS-F5 evaluation electronic
+IL Connection cables
+
+Flexible position monitoring of up to five positions.
+
+Description ID
+
+Analog position sensor
+
+MMS 22-A-05V-M08 0315805
+
+Evaluation electronics
+
+FPS-F5 0301805
+
+Connection cables
+
+KA BG16-L 12P-1000 0301801
+
+i When using an FPS system, one MMS 22-A-05V and one electronic 
+processor (FPS-F5) are required per each gripper, as well as a mounting 
+kit (AS), if listed. Cable extensions (KV) are optionally available - see 
+catalog chapter “Accessories.”
+
+
+
+51
+
+MPG-plus 32
+Gripper for small components
+
+Programmable magnetic switch MMS-IO-Link
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+Sensor for multi-position monitoring through detection of the complete 
+gripper stroke. The sensor is mounted directly in the C-slot of the gripper. 
+Sensor programming on the gripper takes place via the IO-Link interface 
+or the MT magnetic teach tool (included in scope of delivery). An IO-Link 
+master is required for operation.
+
+Description ID
+
+Programmable magnetic switch
+
+MMS 22-IOL-M08 0315830
+
+MMS 22-IOL-M12 0315835
+
+i One sensor is required for each gripper. No additional mounting kit is 
+required – the gripper is equipped for use of the sensor by default. 
+Further information and technical data can be found in the catalog 
+chapter sensor systems.
+
+
+
+52
+
+MPG-plus 40
+Gripper for small components
+
+Gripping force O.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Gripping force I.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Dimensions and maximum loads
+
+Mx max. 1.5 Nm
+
+My max. 2 Nm
+
+Mz max. 4 Nm
+
+Fz max. 170 N
+
+i The specified torques and forces are static 
+values, apply for each base jaw, and may 
+occur simultaneously. My may arise in 
+addition to the moment generated by the 
+gripping force itself.
+
+Technical data
+
+Description MPG-plus 40 MPG-plus 40-AS MPG-plus 40-IS
+
+ID 0305521 0305522 0305523
+
+Stroke per jaw [mm] 6 6 6
+
+Closing/opening force [N] 135/110 170/- -/135
+
+Min. spring force [N] 35 25
+
+Weight [kg] 0.18 0.24 0.24
+
+Recommended workpiece weight [kg] 0.7 0.7 0.7
+
+Fluid consumption double stroke [cm³] 4.1 10.7 10
+
+Min./nom./max. operating pressure [bar] 2/6/8 4/6/6.5 4/6/6.5
+
+Closing/opening time [s] 0.04/0.04 0.045/0.075 0.075/0.045
+
+Closing/opening time with spring [s] 0.20 0.20
+
+Max. permissible finger length [mm] 50 50 50
+
+Max. permissible mass per finger [kg] 0.08 0.08 0.08
+
+Protection class IP 30 30 30
+
+Min./max. ambient temperature [°C] 5/90 5/90 5/90
+
+Repeat accuracy [mm] 0.02 0.02 0.02
+
+Dimensions X x Y x Z [mm] 40 x 26 x 39 40 x 26 x 63.75 40 x 26 x 63.75
+
+Options and their characteristics
+
+High-temperature version 39305521 39305522 39305523
+
+Min./max. ambient temperature [°C] 5/100 5/100 5/100
+
+Precision version 0305526 0305528 0305529
+
+
+
+53
+
+MPG-plus 40
+Gripper for small components
+
+Main view
+
+The drawing shows the basic version of the gripper with open jaws, 
+without dimensional consideration of the options described below.
+
+i The SDV-P pressure maintenance valve can also be used for I.D. or O.D. 
+gripping alternatively or in addition to the spring-loaded, mechanical 
+gripping force maintenance device (see catalog section on 
+accessories).
+
+A, a Main / direct connection, 
+gripper opening
+
+B, b Main / direct connection, 
+gripper closing
+
+1 Gripper connection
+2 Finger connection
+
+GL Fit for centering sleeves
+GM Fit for centering pins
+HT Depth of the centering sleeve 
+
+hole in the counter part
+
+IT MMS 22...-PI2-... sensor
+
+Maximum permitted finger projection
+
+Permitted range Inadmissible range
+
+Lmax is equivalent to the maximum permitted finger length, see the 
+technical data table.
+
+
+
+54
+
+MPG-plus 40
+Gripper for small components
+
+Hose-free direct connection M3
+
+3 Adapter 4 Grippers
+
+The direct connection is used for supplying compressed air without hoses. 
+Instead, the pressure medium is fed through bore-holes in the mounting 
+plate.
+
+Gripping force maintenance AS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Gripping force maintenance IS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Jaw design
+
+IT Vertically positioned prism IK Horizontally positioned prism
+
+A workpiece, which is gripped using three points of contact, can be 
+reliably gripped with high repeatability. A system with more than three 
+points of contact is overdetermined. The drawing shows two alternative 
+gripper finger designs for coaxial and radial gripping of a cylindrical part.
+
+
+
+55
+
+MPG-plus 40
+Gripper for small components
+
+Precision version
+
+BT For AS / IS version
+GL Fit for centering sleeves
+
+GM Fit for centering pins
+IT Length of the usable finger 
+
+surface
+
+The indicated tolerances just refer to the variants of precision versions 
+shown in the chart of technical specifications. All other variants of 
+precision versions are available on request.
+
+Adapter plate
+
+1 Gripper connection
+GL Fit for centering sleeves
+
+HT Depth of the centering sleeve 
+hole in the counter part
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 40 0305527
+
+i The adapter plate is a separately ordered, optional accessory.
+
+Adapter plate
+
+HK Not included in the scope of 
+delivery
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 40 0305527
+
+i The adapter plate is a separately ordered, optional accessory.
+
+SDV-P pressure maintenance valve
+
+4 Grippers IT SDV-P pressure maintenance 
+valve
+
+The SDV-P pressure maintenance valve ensures in emergency STOP 
+situations that the pressure in the piston chamber of pneumatic gripper, 
+swivel, linear, and quick-change modules is temporarily maintained.
+
+Description ID Recommended hose diameter
+
+[mm]
+
+Pressure maintenance valve
+
+SDV-P 04 0403130 6
+
+Pressure maintenance valve with air bleed screw
+
+SDV-P 04-E 0300120 6
+
+i In order to achieve the specified closing and opening time for each 
+gripper variant, the recommended hose diameter must be used. The 
+direct allocation of the respective variant of the gripper for the 
+respective SDV-P can be found at schunk.com.
+
+
+
+56
+
+MPG-plus 40
+Gripper for small components
+
+Finger blanks with BSWS ABR-BSWS-MPG-plus 40
+
+2 Finger connection IT Machining volume
+
+Finger blanks for customized subsequent machining with integrated jaw 
+quick-change system for precise and fast finger changes.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 40 0302896 2
+
+Finger blanks with BSWS
+
+IT Included in the jaw quick-
+change system's scope of 
+delivery
+
+The finger blanks with jaw quick-change system allow fast and manual 
+gripper finger changes. The mechanical interface to the gripper is already 
+integrated. Only the specific workpiece geometry needs to be machined 
+into the finger blank.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 40 0302896 2
+
+Finger blanks ABR-MPG-plus 40
+
+GM Fit for centering pins
+
+The drawing shows the finger blank which can be reworked by the 
+customer.
+
+Description ID Material Scope of delivery
+
+Finger blank
+
+ABR-MPG-plus 40 0340213 Aluminum 2
+
+Object distance sensor OAS-MPG-plus 40
+
+AQ Cable outlet BR Through-hole
+
+Object distance sensor for detecting a workpiece and for measuring its 
+distance to the gripper.
+
+Description ID
+
+Object distance sensor
+
+OAS-MPG-plus 40 0308893
+
+
+
+57
+
+MPG-plus 40
+Gripper for small components
+
+Object distance sensor
+
+AQ Cable outlet
+HK Not included in the scope of 
+
+delivery
+
+IT OAS
+
+Optical distance and presence sensor for direct mounting to to the 
+gripper. One OAS sensor can be attached per gripper.
+
+Description ID
+
+Object distance sensor
+
+OAS-MPG-plus 40 0308893
+
+Evaluation electronics
+
+OAS-V09-D 0308865
+
+OAS-V10-A 0308867
+
+OAS-V10-D 0308866
+
+i The evaluation of the OAS can be done with either an analog or digital 
+evaluation unit and with or without a display. The states which should 
+be detected can be easily taught.
+
+Attachment valves
+
+4 Grippers
+IT Micro valves
+IK Sensor
+
+IL Sensor distributor
+IM Y distributor
+
+The set of attachment valves reduces the compressed air consumption as 
+there is no need to ventilate or bleed the supply lines. This can also 
+reduce cycle time. The hose-free direct assembly of the micro valves 
+reduces the hosing effort for the gripper. To further simplify electrical 
+connection of the valves and sensors, their signals can be bundled via an 
+optional distributor.
+
+Description ID Often combined
+
+Attachment valve
+
+ABV-MV15-S2-M5 0303375
+
+ABV-MV15-S2-M5-V2-M8 0303376
+
+ABV-MV15-S2-M5-V4-M8 0303377 ●
+
+ABV-MV15-S2-M5-V8-M8 0303378
+
+i A set of add-on valves ABV is required per actuator. The ABV set 
+contains two 3/2 micro valves, a valve base, pneumatic screw 
+connections, and optionally a sensor distributor with two, four or 
+eight inputs or outputs. Sensors for monitoring the gripper need to be 
+ordered separately. Pneumatic hoses are not included in the scope of 
+delivery.
+
+Modular Assembly Automation
+
+4 Grippers
+IT CLM/KLM/LM/ELP/ELM/ELS/HLM 
+
+linear modules
+
+IK ASG adapter plate
+
+Grippers and linear modules can be combined with standard adapter 
+plates from the modular assembly system. For more information see our 
+main catalog "Modular Assembly Automation".
+
+Attachment kit for proximity switch IN 40
+
+The attachment kit includes a bracket, switch cams, and mounting screws. 
+Proximity switches have to be ordered separately.
+
+Description ID
+
+Attachment kit for proximity switch
+
+AS-IN40-MPG-plus 40 0305525
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+
+
+58
+
+MPG-plus 40
+Gripper for small components
+
+IN 40 inductive proximity switches
+
+AQ Cable outlet IT Sensor IN ...
+
+End position monitoring can be mounted with an attachment kit.
+
+Description ID Often combined
+
+Attachment kit for proximity switch
+
+AS-IN40-MPG-plus 40 0305525
+
+Inductive proximity switches
+
+IN 40-S-M12 0301574
+
+IN 40-S-M8 0301474 ●
+
+INK 40-S 0301555
+
+i Two sensors (closer/S) are required for each unit and extension cables 
+are available as an option. This attachment kit needs to be ordered 
+optionally as an accessory. For sensor cables, note the minimum 
+permissible bending radii. These are generally 35 mm.
+
+Attachment kit for proximity switch IN 5
+
+IT Sensor IN ...
+
+The attachment kit includes a bracket, switch cams, and mounting screws. 
+Proximity switches have to be ordered separately.
+
+Description ID
+
+Attachment kit for proximity switch
+
+AS-IN5-MPG-plus 40 0340152
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+IN 5 inductive proximity switches
+
+End position monitoring can be mounted with an attachment kit.
+
+Description ID Often combined
+
+Attachment kit for proximity switch
+
+AS-IN5-MPG-plus 40 0340152
+
+Inductive proximity switches
+
+IN 5-S-M12 0301569
+
+IN 5-S-M8 0301469 ●
+
+i Two sensors (closer/S) are required for each unit and extension cables 
+are available as an option. This attachment kit needs to be ordered 
+optionally as an accessory. For sensor cables, note the minimum 
+permissible bending radii. These are generally 35 mm.
+
+Attachment kit for FPS
+
+BT For AS / IS version
+
+The following FPS position sensor can differentiate between five 
+programmable areas or switching points for the stroke of a gripper, and 
+can be used in connection with a PC as a measuring system.
+
+Description ID
+
+Attachment kit for FPS
+
+AS-FPS-MPG-plus 40 0301762
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+
+
+59
+
+MPG-plus 40
+Gripper for small components
+
+Flexible position sensor
+
+IT FPS-F5 evaluation electronic IK FPS-S sensor
+
+Flexible position monitoring of up to five positions.
+
+Description ID Often combined
+
+Attachment kit for FPS
+
+AS-FPS-MPG-plus 40 0301762
+
+Sensor
+
+FPS-S 13 0301705
+
+Cable extension
+
+KV BG08-SG08 3P-0050 0301598
+
+KV BG08-SG08 3P-0100 0301599
+
+Evaluation electronics
+
+FPS-F5 0301805 ●
+
+i When using an FPS system, an FPS sensor (FPS-S) as well as an 
+electronic processor (FPS-F5 / F5 T) are required for each gripper as 
+well as a mounting kit (AS), if listed. Cable extensions (KV) are 
+optionally available - see catalog chapter “Accessories.”
+
+Monitoring for stacked arrangements
+
+BT For AS / IS version
+
+CAUTION: Monitoring is carried out by magnetic switches, and in case of 
+side-by-side assembly of several units, a minimum distance of X mm 
+between the units must be maintained.
+
+
+
+60
+
+MPG-plus 40
+Gripper for small components
+
+Programmable magnetic switch MMS 22-PI2
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+Position monitoring with two programmable positions per sensor and 
+electronics built into the sensor. Can be programmed using MT magnetic 
+teaching tool (included in the scope of delivery) or ST plug teaching tool 
+(optional). End position monitoring for mounting in the C-slot. If the ST 
+plug teaching tools are listed in the table provided, teaching is only 
+possible with the ST teaching tools.
+
+Description ID Often combined
+
+Programmable magnetic switch
+
+MMS 22-PI2-S-M8-PNP 0301180 ●
+
+MMSK 22-PI2-S-PNP 0301182
+
+Programmable magnetic switch with lateral cable outlet
+
+MMS 22-PI2-S-M8-PNP-SA 0301186
+
+MMSK 22-PI2-S-PNP-SA 0301188
+
+Programmable magnetic switch with stainless steel housing
+
+MMS 22-PI2-S-M8-PNP-HD 0301130
+
+MMSK 22-PI2-S-PNP-HD 0301132
+
+i One sensor is required per unit for monitoring two positions. 
+Extension cables and sensor distributors are optionally available. 
+Additional product variants of the sensor, and further information and 
+technical data can be found in the catalog chapter sensor systems.
+
+MMS-P programmable magnetic switch
+
+GN Limit stop for sensor
+IT Vertical attachment of the 
+
+bracket
+
+IK Horizontal attachment of the 
+bracket
+
+Position monitoring with two programmable positions per sensor. End 
+position monitoring for mounting in the C-slot.
+
+Description ID Often combined
+
+Programmable magnetic switch
+
+MMSK-P 22-S-PNP 0301371
+
+MMS-P 22-S-M8-PNP 0301370 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG08-L 4P-0500 0307767 ●
+
+KA BG08-L 4P-1000 0307768
+
+KA BW08-L 4P-0500 0307765
+
+KA BW08-L 4P-1000 0307766
+
+Sensor distributor
+
+V2-M8-4P-2XM8-3P 0301380
+
+i The bracket (90) is delivered vertically mounted. To use the magnetic 
+sensor in a horizontal orientation, the bracket can be horizontally 
+assembled (91). The mounting bracket has an internal stop for the 
+MMS-P (74).
+
+
+
+61
+
+MPG-plus 40
+Gripper for small components
+
+MMS-A analog position sensor
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+No-contact measuring, analog multi-position monitoring for any number 
+of positions.
+
+Description ID
+
+Analog position sensor
+
+MMS 22-A-10V-M08 0315825
+
+MMS 22-A-10V-M12 0315828
+
+i One sensor is required for each gripper. No additional mounting kit is 
+required – the gripper is equipped for use of the sensor by default. 
+Further information and technical data can be found in the catalog 
+chapter sensor systems.
+
+Flexible position sensor with MMS-A
+
+GN Limit stop for sensor
+IT MMS 22-A-... sensor
+
+IK FPS-F5 evaluation electronic
+IL Connection cables
+
+Flexible position monitoring of up to five positions.
+
+Description ID
+
+Analog position sensor
+
+MMS 22-A-05V-M08 0315805
+
+Evaluation electronics
+
+FPS-F5 0301805
+
+Connection cables
+
+KA BG16-L 12P-1000 0301801
+
+i When using an FPS system, one MMS 22-A-05V and one electronic 
+processor (FPS-F5) are required per each gripper, as well as a mounting 
+kit (AS), if listed. Cable extensions (KV) are optionally available - see 
+catalog chapter “Accessories.”
+
+
+
+62
+
+MPG-plus 40
+Gripper for small components
+
+Programmable magnetic switch MMS-IO-Link
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+Sensor for multi-position monitoring through detection of the complete 
+gripper stroke. The sensor is mounted directly in the C-slot of the gripper. 
+Sensor programming on the gripper takes place via the IO-Link interface 
+or the MT magnetic teach tool (included in scope of delivery). An IO-Link 
+master is required for operation.
+
+Description ID
+
+Programmable magnetic switch
+
+MMS 22-IOL-M08 0315830
+
+MMS 22-IOL-M12 0315835
+
+i One sensor is required for each gripper. No additional mounting kit is 
+required – the gripper is equipped for use of the sensor by default. 
+Further information and technical data can be found in the catalog 
+chapter sensor systems.
+
+
+
+63
+
+MPG-plus 40
+Gripper for small components
+
+
+
+64
+
+MPG-plus 50
+Gripper for small components
+
+Gripping force O.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Gripping force I.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Dimensions and maximum loads
+
+Mx max. 3 Nm
+
+My max. 4 Nm
+
+Mz max. 5 Nm
+
+Fz max. 200 N
+
+i The specified torques and forces are static 
+values, apply for each base jaw, and may 
+occur simultaneously. My may arise in 
+addition to the moment generated by the 
+gripping force itself.
+
+Technical data
+
+Description MPG-plus 50 MPG-plus 50-AS MPG-plus 50-IS
+
+ID 0305531 0305532 0305533
+
+Stroke per jaw [mm] 8 8 8
+
+Closing/opening force [N] 215/195 265/- -/230
+
+Min. spring force [N] 50 35
+
+Weight [kg] 0.31 0.37 0.38
+
+Recommended workpiece weight [kg] 1.05 1.05 1.05
+
+Fluid consumption double stroke [cm³] 8 17 15
+
+Min./nom./max. operating pressure [bar] 2/6/8 4/6/6.5 4/6/6.5
+
+Closing/opening time [s] 0.04/0.04 0.045/0.075 0.075/0.045
+
+Closing/opening time with spring [s] 0.30 0.30
+
+Max. permissible finger length [mm] 64 64 64
+
+Max. permissible mass per finger [kg] 0.14 0.14 0.14
+
+Protection class IP 30 30 30
+
+Min./max. ambient temperature [°C] 5/90 5/90 5/90
+
+Repeat accuracy [mm] 0.02 0.02 0.02
+
+Dimensions X x Y x Z [mm] 50 x 30 x 46 50 x 30 x 65.3 50 x 30 x 65.3
+
+Options and their characteristics
+
+High-temperature version 39305531 39305532 39305533
+
+Min./max. ambient temperature [°C] 5/100 5/100 5/100
+
+Precision version 0305536 0305538 0305539
+
+
+
+65
+
+MPG-plus 50
+Gripper for small components
+
+Main view
+
+The drawing shows the basic version of the gripper with open jaws, 
+without dimensional consideration of the options described below.
+
+i The SDV-P pressure maintenance valve can also be used for I.D. or O.D. 
+gripping alternatively or in addition to the spring-loaded, mechanical 
+gripping force maintenance device (see catalog section on 
+accessories).
+
+A, a Main / direct connection, 
+gripper opening
+
+B, b Main / direct connection, 
+gripper closing
+
+1 Gripper connection
+2 Finger connection
+
+GL Fit for centering sleeves
+GM Fit for centering pins
+HT Depth of the centering sleeve 
+
+hole in the counter part
+
+IT MMS 22...-PI2-... sensor
+
+Maximum permitted finger projection
+
+Permitted range Inadmissible range
+
+Lmax is equivalent to the maximum permitted finger length, see the 
+technical data table.
+
+
+
+66
+
+MPG-plus 50
+Gripper for small components
+
+Hose-free direct connection M3
+
+3 Adapter 4 Grippers
+
+The direct connection is used for supplying compressed air without hoses. 
+Instead, the pressure medium is fed through bore-holes in the mounting 
+plate.
+
+Gripping force maintenance AS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Gripping force maintenance IS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Jaw design
+
+IT Vertically positioned prism IK Horizontally positioned prism
+
+A workpiece, which is gripped using three points of contact, can be 
+reliably gripped with high repeatability. A system with more than three 
+points of contact is overdetermined. The drawing shows two alternative 
+gripper finger designs for coaxial and radial gripping of a cylindrical part.
+
+
+
+67
+
+MPG-plus 50
+Gripper for small components
+
+Precision version
+
+BT For AS / IS version
+GL Fit for centering sleeves
+
+GM Fit for centering pins
+IT Length of the usable finger 
+
+surface
+
+The indicated tolerances just refer to the variants of precision versions 
+shown in the chart of technical specifications. All other variants of 
+precision versions are available on request.
+
+Adapter plate
+
+1 Gripper connection
+GL Fit for centering sleeves
+
+HT Depth of the centering sleeve 
+hole in the counter part
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 50 0305537
+
+i The adapter plate is a separately ordered, optional accessory.
+
+Adapter plate
+
+HK Not included in the scope of 
+delivery
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 50 0305537
+
+i The adapter plate is a separately ordered, optional accessory.
+
+SDV-P pressure maintenance valve
+
+4 Grippers IT SDV-P pressure maintenance 
+valve
+
+The SDV-P pressure maintenance valve ensures in emergency STOP 
+situations that the pressure in the piston chamber of pneumatic gripper, 
+swivel, linear, and quick-change modules is temporarily maintained.
+
+Description ID Recommended hose diameter
+
+[mm]
+
+Pressure maintenance valve
+
+SDV-P 04 0403130 6
+
+Pressure maintenance valve with air bleed screw
+
+SDV-P 04-E 0300120 6
+
+i In order to achieve the specified closing and opening time for each 
+gripper variant, the recommended hose diameter must be used. The 
+direct allocation of the respective variant of the gripper for the 
+respective SDV-P can be found at schunk.com.
+
+
+
+68
+
+MPG-plus 50
+Gripper for small components
+
+Finger blanks with BSWS ABR-BSWS-MPG-plus 50
+
+2 Finger connection IT Machining volume
+
+Finger blanks for customized subsequent machining with integrated jaw 
+quick-change system for precise and fast finger changes.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 50 0302897 2
+
+Finger blanks with BSWS
+
+IT Included in the jaw quick-
+change system's scope of 
+delivery
+
+The finger blanks with jaw quick-change system allow fast and manual 
+gripper finger changes. The mechanical interface to the gripper is already 
+integrated. Only the specific workpiece geometry needs to be machined 
+into the finger blank.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 50 0302897 2
+
+Finger blanks ABR-MPG-plus 50
+
+GM Fit for centering pins
+
+The drawing shows the finger blank which can be reworked by the 
+customer.
+
+Description ID Material Scope of delivery
+
+Finger blank
+
+ABR-MPG-plus 50 0340214 Aluminum 2
+
+Object distance sensor OAS-MPG-plus 50
+
+AQ Cable outlet BR Through-hole
+
+Object distance sensor for detecting a workpiece and for measuring its 
+distance to the gripper.
+
+Description ID
+
+Object distance sensor
+
+OAS-MPG-plus 50 0308894
+
+
+
+69
+
+MPG-plus 50
+Gripper for small components
+
+Object distance sensor
+
+AQ Cable outlet
+HK Not included in the scope of 
+
+delivery
+
+IT OAS
+
+Optical distance and presence sensor for direct mounting to to the 
+gripper. One OAS sensor can be attached per gripper.
+
+Description ID
+
+Object distance sensor
+
+OAS-MPG-plus 50 0308894
+
+Evaluation electronics
+
+OAS-V09-D 0308865
+
+OAS-V10-A 0308867
+
+OAS-V10-D 0308866
+
+i The evaluation of the OAS can be done with either an analog or digital 
+evaluation unit and with or without a display. The states which should 
+be detected can be easily taught.
+
+Attachment valves
+
+4 Grippers
+IT Micro valves
+IK Sensor
+
+IL Sensor distributor
+IM Y distributor
+
+The set of attachment valves reduces the compressed air consumption as 
+there is no need to ventilate or bleed the supply lines. This can also 
+reduce cycle time. The hose-free direct assembly of the micro valves 
+reduces the hosing effort for the gripper. To further simplify electrical 
+connection of the valves and sensors, their signals can be bundled via an 
+optional distributor.
+
+Description ID Often combined
+
+Attachment valve
+
+ABV-MV15-M5 0303323
+
+ABV-MV15-M5-V2-M8 0303386
+
+ABV-MV15-M5-V4-M8 0303356 ●
+
+ABV-MV15-M5-V8-M8 0303357
+
+i A set of attachment valves ABV is required per actuator. The ABV set 
+contains two 3/2 micro valves, an Y-distributor for compressed air 
+supply and optionally a sensor distributor with two, four or eight 
+inputs or outputs. Sensors for monitoring the gripper need to be 
+ordered separately. Pneumatic hoses are not included in the scope of 
+delivery.
+
+Modular Assembly Automation
+
+4 Grippers
+IT CLM/KLM/LM/ELP/ELM/ELS/HLM 
+
+linear modules
+
+IK ASG adapter plate
+
+Grippers and linear modules can be combined with standard adapter 
+plates from the modular assembly system. For more information see our 
+main catalog "Modular Assembly Automation".
+
+Attachment kit for proximity switch IN 40
+
+The attachment kit includes a bracket, switch cams, and mounting screws. 
+Proximity switches have to be ordered separately.
+
+Description ID
+
+Attachment kit for proximity switch
+
+AS-IN40-MPG-plus 50 0305535
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+
+
+70
+
+MPG-plus 50
+Gripper for small components
+
+IN 40 inductive proximity switches
+
+AQ Cable outlet IT Sensor IN ...
+
+End position monitoring can be mounted with an attachment kit.
+
+Description ID Often combined
+
+Attachment kit for proximity switch
+
+AS-IN40-MPG-plus 50 0305535
+
+Inductive proximity switches
+
+IN 40-S-M12 0301574
+
+IN 40-S-M8 0301474 ●
+
+INK 40-S 0301555
+
+i Two sensors (closer/S) are required for each unit and extension cables 
+are available as an option. This attachment kit needs to be ordered 
+optionally as an accessory. For sensor cables, note the minimum 
+permissible bending radii. These are generally 35 mm.
+
+Attachment kit for proximity switch IN 5
+
+IT Sensor IN ...
+
+The attachment kit includes a bracket, switch cams, and mounting screws. 
+Proximity switches have to be ordered separately.
+
+Description ID
+
+Attachment kit for proximity switch
+
+AS-IN5-MPG-plus 50 0340153
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+IN 5 inductive proximity switches
+
+End position monitoring can be mounted with an attachment kit.
+
+Description ID Often combined
+
+Attachment kit for proximity switch
+
+AS-IN5-MPG-plus 50 0340153
+
+Inductive proximity switches
+
+IN 5-S-M12 0301569
+
+IN 5-S-M8 0301469 ●
+
+i Two sensors (closer/S) are required for each unit and extension cables 
+are available as an option. This attachment kit needs to be ordered 
+optionally as an accessory. For sensor cables, note the minimum 
+permissible bending radii. These are generally 35 mm.
+
+Attachment kit for FPS
+
+BT For AS / IS version
+
+The following FPS position sensor can differentiate between five 
+programmable areas or switching points for the stroke of a gripper, and 
+can be used in connection with a PC as a measuring system.
+
+Description ID
+
+Attachment kit for FPS
+
+AS-FPS-MPG-plus 50 0301763
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+
+
+71
+
+MPG-plus 50
+Gripper for small components
+
+Flexible position sensor
+
+IT FPS-F5 evaluation electronic IK FPS-S sensor
+
+Flexible position monitoring of up to five positions.
+
+Description ID Often combined
+
+Attachment kit for FPS
+
+AS-FPS-MPG-plus 50 0301763
+
+Sensor
+
+FPS-S 13 0301705
+
+Cable extension
+
+KV BG08-SG08 3P-0050 0301598
+
+KV BG08-SG08 3P-0100 0301599
+
+Evaluation electronics
+
+FPS-F5 0301805 ●
+
+i When using an FPS system, an FPS sensor (FPS-S) as well as an 
+electronic processor (FPS-F5 / F5 T) are required for each gripper as 
+well as a mounting kit (AS), if listed. Cable extensions (KV) are 
+optionally available - see catalog chapter “Accessories.”
+
+Monitoring for stacked arrangements
+
+BT For AS / IS version
+
+CAUTION: Monitoring is carried out by magnetic switches, and in case of 
+side-by-side assembly of several units, a minimum distance of X mm 
+between the units must be maintained.
+
+
+
+72
+
+MPG-plus 50
+Gripper for small components
+
+Programmable magnetic switch MMS 22-PI2
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+Position monitoring with two programmable positions per sensor and 
+electronics built into the sensor. Can be programmed using MT magnetic 
+teaching tool (included in the scope of delivery) or ST plug teaching tool 
+(optional). End position monitoring for mounting in the C-slot. If the ST 
+plug teaching tools are listed in the table provided, teaching is only 
+possible with the ST teaching tools.
+
+Description ID Often combined
+
+Programmable magnetic switch
+
+MMS 22-PI2-S-M8-PNP 0301180 ●
+
+MMSK 22-PI2-S-PNP 0301182
+
+Programmable magnetic switch with lateral cable outlet
+
+MMS 22-PI2-S-M8-PNP-SA 0301186
+
+MMSK 22-PI2-S-PNP-SA 0301188
+
+Programmable magnetic switch with stainless steel housing
+
+MMS 22-PI2-S-M8-PNP-HD 0301130
+
+MMSK 22-PI2-S-PNP-HD 0301132
+
+i One sensor is required per unit for monitoring two positions. 
+Extension cables and sensor distributors are optionally available. 
+Additional product variants of the sensor, and further information and 
+technical data can be found in the catalog chapter sensor systems.
+
+MMS-P programmable magnetic switch
+
+GN Limit stop for sensor
+IT Vertical attachment of the 
+
+bracket
+
+IK Horizontal attachment of the 
+bracket
+
+Position monitoring with two programmable positions per sensor. End 
+position monitoring for mounting in the C-slot.
+
+Description ID Often combined
+
+Programmable magnetic switch
+
+MMSK-P 22-S-PNP 0301371
+
+MMS-P 22-S-M8-PNP 0301370 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG08-L 4P-0500 0307767 ●
+
+KA BG08-L 4P-1000 0307768
+
+KA BW08-L 4P-0500 0307765
+
+KA BW08-L 4P-1000 0307766
+
+Sensor distributor
+
+V2-M8-4P-2XM8-3P 0301380
+
+i The bracket (90) is delivered vertically mounted. To use the magnetic 
+sensor in a horizontal orientation, the bracket can be horizontally 
+assembled (91). The mounting bracket has an internal stop for the 
+MMS-P (74).
+
+
+
+73
+
+MPG-plus 50
+Gripper for small components
+
+MMS-A analog position sensor
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+No-contact measuring, analog multi-position monitoring for any number 
+of positions.
+
+Description ID
+
+Analog position sensor
+
+MMS 22-A-10V-M08 0315825
+
+MMS 22-A-10V-M12 0315828
+
+i One sensor is required for each gripper. No additional mounting kit is 
+required – the gripper is equipped for use of the sensor by default. 
+Further information and technical data can be found in the catalog 
+chapter sensor systems.
+
+Flexible position sensor with MMS-A
+
+GN Limit stop for sensor
+IT MMS 22-A-... sensor
+
+IK FPS-F5 evaluation electronic
+IL Connection cables
+
+Flexible position monitoring of up to five positions.
+
+Description ID
+
+Analog position sensor
+
+MMS 22-A-05V-M08 0315805
+
+Evaluation electronics
+
+FPS-F5 0301805
+
+Connection cables
+
+KA BG16-L 12P-1000 0301801
+
+i When using an FPS system, one MMS 22-A-05V and one electronic 
+processor (FPS-F5) are required per each gripper, as well as a mounting 
+kit (AS), if listed. Cable extensions (KV) are optionally available - see 
+catalog chapter “Accessories.”
+
+
+
+74
+
+MPG-plus 50
+Gripper for small components
+
+Programmable magnetic switch MMS-IO-Link
+
+GN Limit stop for sensor IT Vertical attachment of the 
+bracket
+
+Sensor for multi-position monitoring through detection of the complete 
+gripper stroke. The sensor is mounted directly in the C-slot of the gripper. 
+Sensor programming on the gripper takes place via the IO-Link interface 
+or the MT magnetic teach tool (included in scope of delivery). An IO-Link 
+master is required for operation.
+
+Description ID
+
+Programmable magnetic switch
+
+MMS 22-IOL-M08 0315830
+
+MMS 22-IOL-M12 0315835
+
+i One sensor is required for each gripper. No additional mounting kit is 
+required – the gripper is equipped for use of the sensor by default. 
+Further information and technical data can be found in the catalog 
+chapter sensor systems.
+
+
+
+75
+
+MPG-plus 50
+Gripper for small components
+
+
+
+76
+
+MPG-plus 64
+Gripper for small components
+
+Gripping force O.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Gripping force I.D. gripping
+
+Gripping force
+
+Point P - Finger length
+
+Dimensions and maximum loads
+
+Mx max. 3.5 Nm
+
+My max. 6 Nm
+
+Mz max. 9 Nm
+
+Fz max. 250 N
+
+i The specified torques and forces are static 
+values, apply for each base jaw, and may 
+occur simultaneously. My may arise in 
+addition to the moment generated by the 
+gripping force itself.
+
+Technical data
+
+Description MPG-plus 64 MPG-plus 64-AS MPG-plus 64-IS
+
+ID 0305541 0305542 0305543
+
+Stroke per jaw [mm] 10 10 10
+
+Closing/opening force [N] 300/280 370/- -/335
+
+Min. spring force [N] 70 55
+
+Weight [kg] 0.53 0.62 0.63
+
+Recommended workpiece weight [kg] 1.25 1.25 1.25
+
+Fluid consumption double stroke [cm³] 15 27 24.5
+
+Min./nom./max. operating pressure [bar] 2/6/8 4/6/6.5 4/6/6.5
+
+Closing/opening time [s] 0.08/0.08 0.085/0.12 0.12/0.085
+
+Closing/opening time with spring [s] 0.30 0.30
+
+Max. permissible finger length [mm] 80 80 80
+
+Max. permissible mass per finger [kg] 0.24 0.24 0.24
+
+Protection class IP 30 30 30
+
+Min./max. ambient temperature [°C] 5/90 5/90 5/90
+
+Repeat accuracy [mm] 0.02 0.02 0.02
+
+Dimensions X x Y x Z [mm] 64 x 35 x 54 64 x 35 x 69 64 x 35 x 69
+
+Options and their characteristics
+
+High-temperature version 39305541 39305542 39305543
+
+Min./max. ambient temperature [°C] 5/100 5/100 5/100
+
+
+
+77
+
+MPG-plus 64
+Gripper for small components
+
+Main view
+
+The drawing shows the basic version of the gripper with open jaws, 
+without dimensional consideration of the options described below.
+
+i The SDV-P pressure maintenance valve can also be used for I.D. or O.D. 
+gripping alternatively or in addition to the spring-loaded, mechanical 
+gripping force maintenance device (see catalog section on 
+accessories).
+
+A, a Main / direct connection, 
+gripper opening
+
+B, b Main / direct connection, 
+gripper closing
+
+1 Gripper connection
+2 Finger connection
+
+GL Fit for centering sleeves
+GM Fit for centering pins
+HT Depth of the centering sleeve 
+
+hole in the counter part
+
+IT MMS 22...-PI2-... sensor
+
+Maximum permitted finger projection
+
+Permitted range Inadmissible range
+
+Lmax is equivalent to the maximum permitted finger length, see the 
+technical data table.
+
+
+
+78
+
+MPG-plus 64
+Gripper for small components
+
+Hose-free direct connection M3
+
+3 Adapter 4 Grippers
+
+The direct connection is used for supplying compressed air without hoses. 
+Instead, the pressure medium is fed through bore-holes in the mounting 
+plate.
+
+Gripping force maintenance AS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Gripping force maintenance IS
+
+The mechanical gripping force maintenance device ensures that a 
+minimum clamping force will be applied even if there is a drop in 
+pressure. This acts as closing force in the AS / S version, and as opening 
+force in the IS version. Besides this, the gripping force maintenance device 
+can be used to increase the gripping force or for single actuated gripping.
+
+Jaw design
+
+IT Vertically positioned prism IK Horizontally positioned prism
+
+A workpiece, which is gripped using three points of contact, can be 
+reliably gripped with high repeatability. A system with more than three 
+points of contact is overdetermined. The drawing shows two alternative 
+gripper finger designs for coaxial and radial gripping of a cylindrical part.
+
+
+
+79
+
+MPG-plus 64
+Gripper for small components
+
+Adapter plate
+
+1 Gripper connection
+GL Fit for centering sleeves
+
+HT Depth of the centering sleeve 
+hole in the counter part
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 64 0305547
+
+i The adapter plate is a separately ordered, optional accessory.
+
+Adapter plate
+
+HK Not included in the scope of 
+delivery
+
+The adapter plate includes an O-ring* for a direct air connection, 
+additional centering sleeves, and screws for mounting the gripper. 
+*Optional only with pneumatic actuators
+
+Description ID
+
+Adapter plate
+
+APL-MPG-plus 64 0305547
+
+i The adapter plate is a separately ordered, optional accessory.
+
+SDV-P pressure maintenance valve
+
+4 Grippers IT SDV-P pressure maintenance 
+valve
+
+The SDV-P pressure maintenance valve ensures in emergency STOP 
+situations that the pressure in the piston chamber of pneumatic gripper, 
+swivel, linear, and quick-change modules is temporarily maintained.
+
+Description ID Recommended hose diameter
+
+[mm]
+
+Pressure maintenance valve
+
+SDV-P 04 0403130 6
+
+Pressure maintenance valve with air bleed screw
+
+SDV-P 04-E 0300120 6
+
+i In order to achieve the specified closing and opening time for each 
+gripper variant, the recommended hose diameter must be used. The 
+direct allocation of the respective variant of the gripper for the 
+respective SDV-P can be found at schunk.com.
+
+Finger blanks with BSWS ABR-BSWS-MPG-plus 64
+
+2 Finger connection IT Machining volume
+
+Finger blanks for customized subsequent machining with integrated jaw 
+quick-change system for precise and fast finger changes.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 64 0302898 2
+
+
+
+80
+
+MPG-plus 64
+Gripper for small components
+
+Finger blanks with BSWS
+
+IT Included in the jaw quick-
+change system's scope of 
+delivery
+
+The finger blanks with jaw quick-change system allow fast and manual 
+gripper finger changes. The mechanical interface to the gripper is already 
+integrated. Only the specific workpiece geometry needs to be machined 
+into the finger blank.
+
+Description ID Scope of delivery
+
+Finger blank with jaw quick-change system
+
+ABR-BSWS-MPG-plus 64 0302898 2
+
+Finger blanks ABR-MPG-plus 64
+
+GM Fit for centering pins
+
+The drawing shows the finger blank which can be reworked by the 
+customer.
+
+Description ID Material Scope of delivery
+
+Finger blank
+
+ABR-MPG-plus 64 0340215 Aluminum 2
+
+Object distance sensor OAS-MPG-plus 64
+
+AQ Cable outlet BR Through-hole
+
+Object distance sensor for detecting a workpiece and for measuring its 
+distance to the gripper.
+
+Description ID
+
+Object distance sensor
+
+OAS-MPG-plus 64 0308895
+
+Object distance sensor
+
+AQ Cable outlet
+HK Not included in the scope of 
+
+delivery
+
+IT OAS
+
+Optical distance and presence sensor for direct mounting to to the 
+gripper. One OAS sensor can be attached per gripper.
+
+Description ID
+
+Object distance sensor
+
+OAS-MPG-plus 64 0308895
+
+Evaluation electronics
+
+OAS-V09-D 0308865
+
+OAS-V10-A 0308867
+
+OAS-V10-D 0308866
+
+i The evaluation of the OAS can be done with either an analog or digital 
+evaluation unit and with or without a display. The states which should 
+be detected can be easily taught.
+
+
+
+81
+
+MPG-plus 64
+Gripper for small components
+
+Attachment valves
+
+4 Grippers
+IT Micro valves
+IK Sensor
+
+IL Sensor distributor
+IM Y distributor
+
+The set of attachment valves reduces the compressed air consumption as 
+there is no need to ventilate or bleed the supply lines. This can also 
+reduce cycle time. The hose-free direct assembly of the micro valves 
+reduces the hosing effort for the gripper. To further simplify electrical 
+connection of the valves and sensors, their signals can be bundled via an 
+optional distributor.
+
+Description ID Often combined
+
+Attachment valve
+
+ABV-MV25-M5 0303326
+
+ABV-MV25-M5-V2-M8 0303392
+
+ABV-MV25-M5-V4-M8 0303362 ●
+
+ABV-MV25-M5-V8-M8 0303363
+
+i A set of attachment valves ABV is required per actuator. The ABV set 
+contains two 3/2 micro valves, an Y-distributor for compressed air 
+supply and optionally a sensor distributor with two, four or eight 
+inputs or outputs. Sensors for monitoring the gripper need to be 
+ordered separately. Pneumatic hoses are not included in the scope of 
+delivery.
+
+Modular Assembly Automation
+
+4 Grippers
+IT CLM/KLM/LM/ELP/ELM/ELS/HLM 
+
+linear modules
+
+IK ASG adapter plate
+
+Grippers and linear modules can be combined with standard adapter 
+plates from the modular assembly system. For more information see our 
+main catalog "Modular Assembly Automation".
+
+Attachment kit for proximity switch IN 40
+
+The attachment kit includes a bracket, switch cams, and mounting screws. 
+Proximity switches have to be ordered separately.
+
+Description ID
+
+Attachment kit for proximity switch
+
+AS-IN40-MPG-plus 0305545
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+
+
+82
+
+MPG-plus 64
+Gripper for small components
+
+IN 40 inductive proximity switches
+
+AQ Cable outlet IT Sensor IN ...
+
+End position monitoring can be mounted with an attachment kit.
+
+Description ID Often combined
+
+Attachment kit for proximity switch
+
+AS-IN40-MPG-plus 0305545
+
+Inductive proximity switches
+
+IN 40-S-M12 0301574
+
+IN 40-S-M8 0301474 ●
+
+INK 40-S 0301555
+
+i Two sensors (closer/S) are required for each unit and extension cables 
+are available as an option. This attachment kit needs to be ordered 
+optionally as an accessory. For sensor cables, note the minimum 
+permissible bending radii. These are generally 35 mm.
+
+Attachment kit for proximity switch IN 5
+
+IT Sensor IN ...
+
+The attachment kit includes a bracket, switch cams, and mounting screws. 
+Proximity switches have to be ordered separately.
+
+Description ID
+
+Attachment kit for proximity switch
+
+AS-MPG 64 0340154
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+IN 5 inductive proximity switches
+
+End position monitoring can be mounted with an attachment kit.
+
+Description ID Often combined
+
+Attachment kit for proximity switch
+
+AS-MPG 64 0340154
+
+Inductive proximity switches
+
+IN 5-S-M12 0301569
+
+IN 5-S-M8 0301469 ●
+
+i Two sensors (closer/S) are required for each unit and extension cables 
+are available as an option. This attachment kit needs to be ordered 
+optionally as an accessory. For sensor cables, note the minimum 
+permissible bending radii. These are generally 35 mm.
+
+
+
+83
+
+MPG-plus 64
+Gripper for small components
+
+Attachment kit for FPS
+
+BT For AS / IS version
+
+The following FPS position sensor can differentiate between five 
+programmable areas or switching points for the stroke of a gripper, and 
+can be used in connection with a PC as a measuring system.
+
+Description ID
+
+Attachment kit for FPS
+
+AS-FPS-MPG 64 0301764
+
+i This attachment kit needs to be ordered optionally as an accessory.
+
+Flexible position sensor
+
+IT FPS-F5 evaluation electronic IK FPS-S sensor
+
+Flexible position monitoring of up to five positions.
+
+Description ID Often combined
+
+Attachment kit for FPS
+
+AS-FPS-MPG 64 0301764
+
+Sensor
+
+FPS-S 13 0301705
+
+Cable extension
+
+KV BG08-SG08 3P-0050 0301598
+
+KV BG08-SG08 3P-0100 0301599
+
+Evaluation electronics
+
+FPS-F5 0301805 ●
+
+i When using an FPS system, an FPS sensor (FPS-S) as well as an 
+electronic processor (FPS-F5 / F5 T) are required for each gripper as 
+well as a mounting kit (AS), if listed. Cable extensions (KV) are 
+optionally available - see catalog chapter “Accessories.”
+
+Monitoring for stacked arrangements
+
+BT For AS / IS version
+
+CAUTION: Monitoring is carried out by magnetic switches, and in case of 
+side-by-side assembly of several units, a minimum distance of X mm 
+between the units must be maintained.
+
+
+
+84
+
+MPG-plus 64
+Gripper for small components
+
+Programmable magnetic switch MMS 22-PI2
+
+Position monitoring with two programmable positions per sensor and 
+electronics built into the sensor. Can be programmed using MT magnetic 
+teaching tool (included in the scope of delivery) or ST plug teaching tool 
+(optional). End position monitoring for mounting in the C-slot. If the ST 
+plug teaching tools are listed in the table provided, teaching is only 
+possible with the ST teaching tools.
+
+Description ID Often combined
+
+Programmable magnetic switch
+
+MMS 22-PI2-S-M8-PNP 0301180 ●
+
+MMSK 22-PI2-S-PNP 0301182
+
+Programmable magnetic switch with lateral cable outlet
+
+MMS 22-PI2-S-M8-PNP-SA 0301186
+
+MMSK 22-PI2-S-PNP-SA 0301188
+
+Programmable magnetic switch with stainless steel housing
+
+MMS 22-PI2-S-M8-PNP-HD 0301130
+
+MMSK 22-PI2-S-PNP-HD 0301132
+
+i One sensor is required per unit for monitoring two positions. 
+Extension cables and sensor distributors are optionally available. 
+Additional product variants of the sensor, and further information and 
+technical data can be found in the catalog chapter sensor systems.
+
+
+
+85
+
+MPG-plus 64
+Gripper for small components
+
+MMS-P programmable magnetic switch
+
+Position monitoring with two programmable positions per sensor. End 
+position monitoring for mounting in the C-slot.
+
+Description ID Often combined
+
+Programmable magnetic switch
+
+MMSK-P 22-S-PNP 0301371
+
+MMS-P 22-S-M8-PNP 0301370 ●
+
+clip for plug/socket
+
+CLI-M8 0301463
+
+Connection cables
+
+KA BG08-L 4P-0500 0307767 ●
+
+KA BG08-L 4P-1000 0307768
+
+KA BW08-L 4P-0500 0307765
+
+KA BW08-L 4P-1000 0307766
+
+Sensor distributor
+
+V2-M8-4P-2XM8-3P 0301380
+
+i One sensor is required per unit for monitoring two positions. 
+Extension cables and sensor distributors are optionally available. 
+Additional product variants of the sensor, and further information and 
+technical data can be found in the catalog chapter sensor systems.
+
+MMS-A analog position sensor
+
+No-contact measuring, analog multi-position monitoring for any number 
+of positions.
+
+Description ID
+
+Analog position sensor
+
+MMS 22-A-10V-M08 0315825
+
+MMS 22-A-10V-M12 0315828
+
+i One sensor is required for each gripper. No additional mounting kit is 
+required – the gripper is equipped for use of the sensor by default. 
+Further information and technical data can be found in the catalog 
+chapter sensor systems.
+
+
+
+86
+
+MPG-plus 64
+Gripper for small components
+
+Flexible position sensor with MMS-A
+
+IT MMS 22-A-... sensor
+IK FPS-F5 evaluation electronic
+
+IL Connection cables
+
+Flexible position monitoring of up to five positions.
+
+Description ID
+
+Analog position sensor
+
+MMS 22-A-05V-M08 0315805
+
+Evaluation electronics
+
+FPS-F5 0301805
+
+Connection cables
+
+KA BG16-L 12P-1000 0301801
+
+i When using an FPS system, one MMS 22-A-05V and one electronic 
+processor (FPS-F5) are required per each gripper, as well as a mounting 
+kit (AS), if listed. Cable extensions (KV) are optionally available - see 
+catalog chapter “Accessories.”
+
+Programmable magnetic switch MMS-IO-Link
+
+Sensor for multi-position monitoring through detection of the complete 
+gripper stroke. The sensor is mounted directly in the C-slot of the gripper. 
+Sensor programming on the gripper takes place via the IO-Link interface 
+or the MT magnetic teach tool (included in scope of delivery). An IO-Link 
+master is required for operation.
+
+Description ID
+
+Programmable magnetic switch
+
+MMS 22-IOL-M08 0315830
+
+MMS 22-IOL-M12 0315835
+
+i One sensor is required for each gripper. No additional mounting kit is 
+required – the gripper is equipped for use of the sensor by default. 
+Further information and technical data can be found in the catalog 
+chapter sensor systems.
+
+
+
+87
+
+MPG-plus 64
+Gripper for small components
+
+
+
+SCHUNK GmbH & Co. KG  
+
+Spann- und Greiftechnik
+
+Bahnhofstr. 106 - 134
+
+D-74348 Lauffen/Neckar
+
+Tel. +49-7133-103-0
+
+Fax +49-7133-103-2399
+
+info@de.schunk.com
+
+schunk.com
+
+Jens Lehmann, German goalkeeper legend, SCHUNK brand ambassador since 2012 for 
+safe, precise gripping and holding.
+schunk.com/Lehmann
+
+Follow us
+
+20
+19
+
+-1
+1-
+
+12
+   
+
+©
+ 2
+
+0
+19
+
+ S
+CH
+
+U
+N
+
+K 
+G
+
+m
+bH
+
+ &
+ C
+
+o.
+ K
+
+G
+
+
