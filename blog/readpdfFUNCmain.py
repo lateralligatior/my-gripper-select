@@ -158,7 +158,10 @@ def main():
                     out_file.write(line)
                     #print(line)        
     globaldf = globaldf.drop('\n', axis = 1)
-    
+    globaldf.to_csv('grippercsv.csv')
+    dfhtml = globaldf.to_html()
+    with io.open('dfhtmlfile.txt', mode = 'w+', encoding = 'utf-8') as writefile:
+        writefile.write(dfhtml)
 if __name__ == "__main__":
    main()                  
 
