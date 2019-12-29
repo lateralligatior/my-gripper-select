@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from .models import Post
 from django.utils import timezone
-import pyGithub
+#import pyGithub
 
 #from .readpdfFUNCmain import globaldf
 
