@@ -22,7 +22,8 @@ def post_list(request):
     with open(directory + '\\' + 'testing.txt', mode = 'r', encoding  = 'utf-8') as in_file:
         for line in in_file:
             linelist.append(line)
-    
+    pd.set_option('display.max_columns', 500)
+    pd.set_option('display.width', 1000)
     postdf = pd.read_csv(directory + '\\' + 'grippercsv.csv')
     
     name = 'neato burrito'
